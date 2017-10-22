@@ -1,0 +1,73 @@
+baseurl = "https://casd82.github.io/"
+languageCode = "en-us"
+Title = "Shineright Studio"
+theme = "shineright_theme"
+# Copyright notice. This is displayer in the footer.
+copyright = "Yu Chao (趙佑) © 2017"
+
+[params]
+  paginate = 10
+  # Social accounts. Link to these accounts are displayed in the header and
+  # footer
+  twitter = "casd82"
+  facebook = "casd82.yuchao"
+  instagram = "chaoyoooo"
+  googleplus = "https://plus.google.com/u/0/+ChaoAndrew" # https://plus.google.com/u/0/xxxxxx
+  github = "casd82"
+  # npm = "Your npm username"
+  # codepen = "Your CodePen username"
+  # dribbble = "Your Dribbble username"
+  # fivehundredpx = "Your 500px username" # 500px
+  # flickr = "Your Flickr username"
+  # pinterest = "Your Pinterest username"
+  # tumblr = "Your Tumblr username"
+  # vimeo = "Your Vimeo username"
+  youtube = "casd8822"
+  linkedin = "佑-趙-a55b85b2"
+  # Disqus shortname
+  disqus = "shineright-studio-yu-chao"
+  # Google Analytics API key.
+  ga_api_key = "Your Google Analytics tracking id"
+  author = "Yu Chao"
+  authorwebsite = "example.com"
+  avatar = "/avatar.png"
+  contact = "mailto:chaoyu@link.cuhk.edu.hk"
+  bio = "A Game designer, programmer, illustrator from Taiwan."
+  # Short subtitle/tagline. This is displayed in the header.
+  # subtitle = "Short subtitle"
+  # Logo image. This is displayed ogp image.
+  logo = ""
+  title_image = "/title-image.png"
+  favicon = "/favicon.ico"
+
+[[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "About"
+    url = "/about"
+    weight = 2
+
+[[menu.main]]
+    name = "Projects"
+    url = "/projects"
+    weight = 3
+
+[[menu.main]]
+    name = "Articles"
+    url = "/articles"
+    weight = 4
+
+[[menu.main]]
+    name = "Gallery"
+    url = "/gallery"
+    weight = 5
+
+# --Nested Menu--
+# [[menu.main]]
+#    parent = "theme"
+#    name = "creating-a-new-theme"
+#    url = "/posts/creating-a-new-theme"
+#    weight = 1
