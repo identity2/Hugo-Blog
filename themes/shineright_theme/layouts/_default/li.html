@@ -10,7 +10,6 @@
   </header>
   <div class="c-article__summary">
     {{ .Summary | plainify | safeHTML }}
-    <span><a href="{{ .Permalink }}">...Read More</a></span>
   </div>
   {{ if .Truncated }}
   <a href="{{ .Permalink }}" class="c-article__btn p-list-article__btn">Read more</a></li>

@@ -5,5 +5,4 @@ thumbnail: ""
 static_page: true
 draft: false
 ---
-
-Shineright Studio is 
+Under construction.
