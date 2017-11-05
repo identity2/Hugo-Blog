@@ -5,4 +5,4 @@ thumbnail: ""
 static_page: true
 draft: false
 ---
-Under construction.
+I'll be uploading my doodle artworks up here pretty soon.

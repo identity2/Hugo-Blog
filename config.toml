@@ -11,7 +11,7 @@ copyright = "Yu Chao (趙佑) © 2017"
   # footer
   twitter = "casd82"
   facebook = "casd82.yuchao"
-  instagram = "chaoyoooo"
+  instagram = "yuchao.casd82"
   googleplus = "https://plus.google.com/u/0/+ChaoAndrew" # https://plus.google.com/u/0/xxxxxx
   github = "casd82"
   # npm = "Your npm username"
@@ -27,12 +27,12 @@ copyright = "Yu Chao (趙佑) © 2017"
   # Disqus shortname
   disqus = "shineright-studio-yu-chao"
   # Google Analytics API key.
-  ga_api_key = "Your Google Analytics tracking id"
+  ga_api_key = "UA-109245777-1"
   author = "Yu Chao"
   authorwebsite = "example.com"
   avatar = "/avatar.png"
   contact = "mailto:chaoyu@link.cuhk.edu.hk"
-  bio = "A Game designer, programmer, illustrator from Taiwan."
+  bio = "I draw. I write. I make games."
   # Short subtitle/tagline. This is displayed in the header.
   # subtitle = "Short subtitle"
   # Logo image. This is displayed ogp image.
