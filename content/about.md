@@ -8,6 +8,8 @@ draft: false
 Yu Chao (趙佑) is an all-round game designer/developer. He has great enthusiasm for game mechanic designing, gameplay programming, doodle art illustration, music, and creative writing. He published couple games under the name of his personal game studio -- Shineright Studio.
 
 ## Lore
+![Yu Chao Self Portrait](/about/avatar-banner.png)
+
 Yu Chao was born in the magical land of Taiwan, where gentle monsoon blows and mighty tides ebb and flow. "O, you shall be the greatest game designer!" An old sage remarked when he happened to witness the grand birth of Yu. 
 
 <br />
@@ -16,18 +18,18 @@ Unknowing that a sage had predicted his future, Yu studied diligently and tirele
 
 <br />
 
-Though he majored in computer science, Yu always felt a strong connection to literature, history, philosophy and art. He spent days and nights in front of the desk, obsessed with the sea of books, and finally determined to be a game designer...as well as end this article of nonsense before it gets worse.
+Though he majored in computer science, Yu always felt a strong connection to literature, history, design and art. He spent days and nights in front of the desk, obsessed with the sea of books, and finally determined to be a game designer...as well as end this article of nonsense before it gets worse.
 
 ## The (Ruthless) Truth
-I draw. I write. I program.
+I draw. I write. I make games.
 
 <br />
 
-Unlike most of the programmers or umm... general human beings out there, I don't really care whether technologies harm or benefit the human race, whether smart phones are damaging the society, or how to make the world a better place. I lack interest in big data, machine learning, blockchain, or making America great again. **Unless they are related with game design/development!**
+Unlike most of the programmers, artists or umm... general human beings out there, I don't really care whether technologies harm or benefit the human race, whether smart phones are damaging the society, or how to make the world a better place. I lack interest in big data, machine learning, blockchain, or making America great again. **Unless they are related with game design/development or art!**
 
 <br />
 
-That's probably the most accurate description of my passion towards game design/development. I mean, it's cool if I can make the world better or understand some popular technological terms that make me look like an expert, but what I really care is to produce fine games and artworks. That's it.
+That's probably the most accurate description of my passion towards game design/development and art. I mean, it's cool if I can make the world better or understand some popular technological terms that make me look like an expert, but what I really care is to produce fine games and artworks. That's it.
 
 ## Social Network Links
 Though I dislike social networks, I won't be able to share my works without them. Just like love, where hatred and inseparability coexist. Nevermind. If you think I'm worth following, follow me on:
