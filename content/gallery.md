@@ -5,4 +5,8 @@ thumbnail: ""
 static_page: true
 draft: false
 ---
-I'll be uploading my doodle artworks up here pretty soon.
+## Project: Doodles with Trash Poem
+
+{{< instagram BbePJLxAnLQ hidecaption>}}
+
+↑ (#1) Diverged in a Wood

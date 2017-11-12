@@ -5,7 +5,7 @@ thumbnail: ""
 static_page: true
 draft: false
 ---
-Yu Chao (趙佑) is an all-round game designer/developer. He has great enthusiasm for game mechanic designing, gameplay programming, doodle art illustration, music, and creative writing. He published couple games under the name of his personal game studio -- Shineright Studio.
+Yu Chao (趙佑) is an all-round (well, kind of) game designer/developer. He has great enthusiasm for game mechanic designing, gameplay programming, doodle art illustration, music, and creative writing. He published couple games under the name of his personal game studio -- Shineright Studio.
 
 ## Lore
 ![Yu Chao Self Portrait](/about/avatar-banner.png)

@@ -12,7 +12,7 @@ draft: false
 To be announced.
 
 ## Platforms
-Steam (Mac, Windows & Linux), iOS, Android.
+macOS, Windows, Linux, iOS, Android.
 
 ## Description
 Boots-Cuts is a beatbox rhythm game I am currently working on. Players could record their voices as drum beats and play music notes by tapping on the screen (or pressing the keyboard for desktop version). Most of the song collections in the game consist of classical musics remixed in a hip hop or V A P O R W A V E style.
