@@ -9,7 +9,7 @@ draft: false
 (Demo Screenshot)
 
 ## Release Date
-To be announced.
+Probably before 2070.
 
 ## Platforms
 macOS, Windows, Linux, iOS, Android.

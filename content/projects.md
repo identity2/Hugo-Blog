@@ -6,9 +6,9 @@ static_page: true
 draft: false
 ---
 ## Game
-[<img src="/projects/kqq.png" width="55px" height="55px" /> kQq - A Physics Puzzle Game](/kqq)
+[<img src="/projects/kqq.png" width="55px" height="55px" /> kQq](/kqq)
 
-[<img src="/projects/tall-as-the-sky.png" width="55px" height="55px" /> Tall as the Sky - A Simple Shooter Game](/tall-as-the-sky)
+[<img src="/projects/tall-as-the-sky.png" width="55px" height="55px" /> Tall as the Sky](/tall-as-the-sky)
 ## App
 [<img src="/projects/recordable-launchpad.png" width="55px" height="55px" /> Recordable Launchpad](/recordable-launchpad)
 
@@ -21,12 +21,12 @@ draft: false
 ## Open Source Projects
 Below are the open source projects I've contributed to:
 
-[Systers' PowerUp iOS - A female empowerment educational game app](https://github.com/systers/powerup-iOS)
+[PowerUp iOS (Anita Borg Institute)](https://github.com/systers/powerup-iOS)
 
 ## Projects in Development
-[<img src="/projects/the-forsakeners.png" width="55px" height="55px"/> The Forsakeners - A "Real-Life Doodle" Styled 2D Adventure Platformer](/the-forsakeners)
+[<img src="/projects/the-forsakeners.png" width="55px" height="55px"/> The Forsakeners](/the-forsakeners)
 
 ## Abandoned Projects
 Below are the projects I abandoned due to unexpected technical issues or some existential crises. I will revive them if I live long enough.
 
-[<img src="/projects/boots-cuts.png" width="55px" height="55px"/> Boots-Cuts - A Beatbox Rhythm Game](/boots-cuts)
+[<img src="/projects/boots-cuts.png" width="55px" height="55px"/> Boots-Cuts](/boots-cuts)

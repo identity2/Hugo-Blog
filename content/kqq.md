@@ -12,14 +12,12 @@ draft: false
 
 [Google Play (Android)](https://play.google.com/store/apps/details?id=com.ShineRightStudio.KQq)
 
-[Amazon App Store](https://www.amazon.com/Shine-Right-Studio-kQq/dp/B06XDMHDNZ/)
-
 ## Description
 kQq is a physics puzzle game where player should Guide Lil' Neg -- the main character -- to the Worm Hole by placing positive, negative or neutral charges on each game levels. The game consists of unique original soundtracks and artworks.
 
 ## Features
 * Original Background music.
-* Experience REAL LOVE. Well, just kidding.
+* Experience TRUE LOVE. Well, just kidding.
 * Foster your sympathy for the color-blinded.
 * Boost your IQ, reduce your EQ.
 
