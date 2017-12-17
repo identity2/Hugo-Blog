@@ -44,3 +44,17 @@ draft: false
 ↑ (#5) Into That Good Night
 
 *Reference: The xx*
+
+<br />
+
+{{< instagram BchN87wgPpZ hidecaption >}}
+
+↑ (#6) A Joke
+
+*Reference: The Smiths*
+
+<br />
+
+{{< instagram Bcy6q73AYfN hidecaption >}}
+
+↑ (#7) Beep Boop
