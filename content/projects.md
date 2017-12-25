@@ -5,17 +5,17 @@ thumbnail: ""
 static_page: true
 draft: false
 ---
-## Game
+## Games
 [<img src="/projects/kqq.png" width="55px" height="55px" /> kQq](/kqq)
 
 [<img src="/projects/tall-as-the-sky.png" width="55px" height="55px" /> Tall as the Sky](/tall-as-the-sky)
-## App
+## Apps
 [<img src="/projects/recordable-launchpad.png" width="55px" height="55px" /> Recordable Launchpad](/recordable-launchpad)
 
-## Doodles
-[<img src="/projects/doodles-with-trash-poem.png" width="55px" height="55px"/> Doodles with Trash Poem](/gallery)
+## Illustrations
+[<img src="/projects/doodles-with-trash-poem.png" width="55px" height="55px"/> Doodles](https://www.instagram.com/yuchao.casd82/)
 
-## iMessage Sticker
+## iMessage Stickers
 [<img src="/projects/kqq-iMessage.png" width="50px" height="35px"/> kQq iMessage Sticker](https://itunes.apple.com/at/app/kqq-stickers/id1209818427)
 
 ## Open Source Projects
