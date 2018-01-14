@@ -25,11 +25,11 @@ I draw. I write. I make games.
 
 <br />
 
-Unlike most of the programmers, artists or umm... general human beings out there, I don't really care whether technologies harm or benefit the human race, whether smart phones are damaging the society, or how to make the world a better place. I lack interest in big data, machine learning, blockchain, or making America great again. **Unless they are related with game design/development or art!**
+Unlike most of the programmers, artists or umm... general human beings out there, I don't really care whether technologies harm or benefit the human race, whether smart phones are damaging the society, or how to push yourself up the pyramid of capitalist system efficiently. I lack interest in big data, internet of things, blockchain, or making America great again. **Unless they are related with game design/development or art!**
 
 <br />
 
-That's probably the most accurate description of my passion towards game design/development and art. I mean, it's cool if I can make the world better or understand some popular technological terms that make me look like an expert, but what I really care is to produce fine games and artworks. That's it.
+That's probably the most accurate description of my passion towards game design/development and art. I mean, it's cool if I can make the world better or understand some popular technological terms that make me look like an expert, but what I really care is to produce fine games and artworks.
 
 ## Social Network Links
 Though I dislike social networks, I won't be able to share my works without them. Just like love, where hatred and inseparability coexist. Nevermind. If you think I'm worth following, follow me on:
