@@ -10,9 +10,9 @@ copyright = "Yu Chao (趙佑) © 2017"
   # Social accounts. Link to these accounts are displayed in the header and
   # footer
   twitter = "casd82"
-  facebook = "casd82.yuchao"
+  # facebook = "casd82.yuchao"
   instagram = "yuchao.casd82"
-  googleplus = "https://plus.google.com/u/0/+ChaoAndrew" # https://plus.google.com/u/0/xxxxxx
+  # googleplus = "https://plus.google.com/u/0/+ChaoAndrew" # https://plus.google.com/u/0/xxxxxx
   github = "casd82"
   # npm = "Your npm username"
   # codepen = "Your CodePen username"
@@ -29,10 +29,10 @@ copyright = "Yu Chao (趙佑) © 2017"
   # Google Analytics API key.
   ga_api_key = "UA-109245777-1"
   author = "Yu Chao"
-  authorwebsite = "example.com"
+  authorwebsite = "shinerightstudio.com"
   avatar = "/avatar.png"
   contact = "mailto:chaoyu@link.cuhk.edu.hk"
-  bio = "I draw. I write. I make games."
+  bio = "I make games when I'm bored. I get bored quite often."
   # Short subtitle/tagline. This is displayed in the header.
   # subtitle = "Short subtitle"
   # Logo image. This is displayed ogp image.
@@ -62,7 +62,7 @@ copyright = "Yu Chao (趙佑) © 2017"
 
 [[menu.main]]
     name = "Gallery"
-    url = "/gallery"
+    url = "https://www.instagram.com/yuchao.casd82/"
     weight = 5
 
 # --Nested Menu--

@@ -10,6 +10,8 @@ draft: false
 
 [<img src="/projects/tall-as-the-sky.png" width="55px" height="55px" /> Tall as the Sky](/tall-as-the-sky)
 ## Apps
+[<img src="/projects/tuner-metronome.png" width="55px height=55px" /> Tuner & Metronome](/tuner-metronome)
+
 [<img src="/projects/recordable-launchpad.png" width="55px" height="55px" /> Recordable Launchpad](/recordable-launchpad)
 
 ## Illustrations
@@ -26,7 +28,9 @@ Below are the open source projects I've contributed to:
 ## Projects in Development
 [<img src="/projects/the-forsakeners.png" width="55px" height="55px"/> The Forsakeners](/the-forsakeners)
 
-## Abandoned Projects
-Below are the projects I abandoned due to unexpected technical issues or some existential crises. I will revive them if I live long enough.
+## Dead Projects
+Below are the projects I abandoned due to unexpected technical issues or some existential crises. I will resurrect them if I live long enough.
+
+<br />
 
 [<img src="/projects/boots-cuts.png" width="55px" height="55px"/> Boots-Cuts](/boots-cuts)
