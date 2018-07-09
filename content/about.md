@@ -9,3 +9,6 @@ draft: false
 ![Yu Chao Self Portrait](/about/avatar-banner.png)
 
 <p style="text-align:center;font-weight:bold">GRRRRRRRRRRRAAAAAAAAAAAAAAAAWWRRR!!!</p>
+<br />
+
+I apologize, this page is eaten.
