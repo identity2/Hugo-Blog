@@ -5,10 +5,16 @@ thumbnail: ""
 static_page: true
 draft: false
 ---
+Name's Yu Chao.
 
-![Yu Chao Self Portrait](/about/avatar-banner.png)
+Games & doodles' what I create.
 
-<p style="text-align:center;font-weight:bold">GRRRRRRRRRRRAAAAAAAAAAAAAAAAWWRRR!!!</p>
+Glorious website o' mine this is.
+
 <br />
 
-I apologize, this page is eaten.
+![Shine Right](/about/picture.png)
+
+<br />
+
+Also, I am a good person.

@@ -38,6 +38,7 @@ copyright = "Yu Chao (趙佑) © 2017"
   # Logo image. This is displayed ogp image.
   logo = ""
   title_image = "/title-image.png"
+  fail_image = "/about/avatar-banner.png"
   favicon = "/favicon.ico"
 
 [[menu.main]]
