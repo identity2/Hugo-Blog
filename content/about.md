@@ -5,16 +5,12 @@ thumbnail: ""
 static_page: true
 draft: false
 ---
-Name's Yu Chao.
+Me, Yu Chao.
 
-Games & doodles' what I create.
+Make games and draw.
 
-Glorious website o' mine this is.
+Is good person!
 
 <br />
 
 ![Shine Right](/about/picture.png)
-
-<br />
-
-Also, I am a good person.
