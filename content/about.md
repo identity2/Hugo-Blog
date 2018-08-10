@@ -5,11 +5,13 @@ thumbnail: ""
 static_page: true
 draft: false
 ---
-Me, Yu Chao.
+I'm Yu Chao.
 
-Make games and draw.
+I major in Computer Science at the Chinese University of Hong Kong.
 
-Is good person!
+I make games, create doodle art, and write.
+
+I am a good person.
 
 <br />
 
