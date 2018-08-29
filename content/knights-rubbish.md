@@ -8,7 +8,7 @@ draft: false
 This is an extremely cool game in development, but I have nothing to show now. Come back later.
 
 ## Release Date
-Probably mid or late 2019.
+Will release an alpha version before 2019 summer. The completed version might never be released sadly. (Since I don't have enough spare time, and life is so short.)
 
 ## Platforms
-Windows, macOS, Linux
+Windows, macOS

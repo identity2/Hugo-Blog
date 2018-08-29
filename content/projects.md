@@ -5,6 +5,9 @@ thumbnail: ""
 static_page: true
 draft: false
 ---
+## Graphic Novels
+[<img src="/projects/inter-dimensional-time.png" width="55px" height="55px" /> Inter-dimensional Time](/inter-dimensional-time)
+
 ## Games
 [<img src="/projects/kqq.png" width="55px" height="55px" /> kQq](/kqq)
 
@@ -20,9 +23,6 @@ draft: false
 ## Illustrations
 [<img src="/projects/doodles-with-trash-poem.png" width="55px" height="55px"/> Doodles](https://www.instagram.com/yuchao.casd82/)
 
-## Graphic Novels
-[<img src="/projects/inter-dimensional-time.png" width="55px" height="55px" /> Inter-dimensional Time](/inter-dimensional-time)
-
 ## Game Prototypes:
 [<img src="/projects/boots-cuts.png" width="55px" height="55px"/> Boots-Cuts](/boots-cuts)
 
@@ -32,6 +32,3 @@ draft: false
 Below are the open source projects I've contributed to:
 
 [PowerUp iOS (Anita Borg Institute)](https://github.com/systers/powerup-iOS)
-
-## iMessage Stickers
-[<img src="/projects/kqq-iMessage.png" width="50px" height="35px"/> kQq iMessage Sticker](https://itunes.apple.com/at/app/kqq-stickers/id1209818427)
