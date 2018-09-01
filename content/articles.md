@@ -9,6 +9,12 @@ This page includes all the articles published on this blog.
 
 ## Posts
 
+**September 2018**
+
+[iOS Tuner App Using AudioKit](/posts/ios-tuner-app-using-audiokit)
+
+<br />
+
 **October 2017**
 
 [Shineright Studio Starts...again and again!](/posts/shineright-studio-starts-again-and-again)
@@ -82,6 +88,14 @@ This page includes all the articles published on this blog.
 [Articles](/articles)
 
 [Gallery](/gallery)
+
+[Inter-dimensional Time](/inter-dimensional-time)
+
+[Knights Rubbish](/knights-rubbish)
+
+[Quantum Game](/quantum-game)
+
+[Tuner & Metronome](/tuner-metronome)
 
 [kQq](/kqq)
 
