@@ -157,7 +157,7 @@ The release of Godot 3.0 is around the corner. The developers are adding fantast
 
 <br />
 
-**Experience the actual feeling of Waiting for Godot** - Yeah, the essence of Godot is that you have to be waiting for it. Waiting for Godot 1.0, waiting for Godot 2.0, and now, it's waiting for Godot 3.0. You have be waiting...([or contribute some to it](https://github.com/godotengine/godot)).
+**Experience the actual feeling of Waiting for Godot** - Yeah, the essence of Godot is that you have to be waiting for it. Waiting for Godot 1.0, waiting for Godot 2.0, and now, it's waiting for Godot 3.0. You have be waiting...([or contribute some code to it](https://github.com/godotengine/godot)).
 
 ## Conclusion
 Overall, I really like Godot engine and its community. Since it is an open source project, its development relies fully on its community. Hope that the community will grow bigger thus making the engine better in the future.

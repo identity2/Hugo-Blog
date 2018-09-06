@@ -7,8 +7,8 @@ draft: false
 ---
 <img src="/inter-dimensional-time/cover.png" alt="Inter-dimensional Time" width="747px height=556px" />
 
-# Publish Data
-Before November.
+# Publish Date
+Before November 2018.
 
 # Sample Chapters
 [Recipe](https://drive.google.com/open?id=138sVuaC6AryQc1Fk-CLbMZNiDKPVEfHu) ． [Movies](https://drive.google.com/open?id=1x7h6R-o23wbqTpOZVfzDI-XqWgv8mfGb) ． [News](https://drive.google.com/open?id=1QduihcBtNx8FB3AA5lUpslc6X6ek2ZMq) ． [Life Pro Tips](https://drive.google.com/open?id=1yOigg9ik1FNcd5nsylZyWzPxzB8_EVkC) ． [Ads 1](https://drive.google.com/open?id=1_UuyLFgqLpBN60dXD9sB8NPYUEmLvXWQ) ． [Ads 2](https://drive.google.com/open?id=1uoVfG1lsIFnXzdk0x-hivI5XQYbbHCTU)
