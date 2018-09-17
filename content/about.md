@@ -9,7 +9,7 @@ I'm Yu Chao.
 
 I major in Computer Science at the Chinese University of Hong Kong.
 
-I make games, create doodle art, and write crazy stuff.
+I make games, draw, and write crazy stuff.
 
 I am a good person.
 

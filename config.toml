@@ -42,7 +42,7 @@ copyright = "Yu Chao (趙佑) © 2017"
   favicon = "/favicon.ico"
 
 [[menu.main]]
-    name = "Home"
+    name = "Blog"
     url = "/"
     weight = 1
 
@@ -62,9 +62,14 @@ copyright = "Yu Chao (趙佑) © 2017"
     weight = 4
 
 [[menu.main]]
+    name = "Books"
+    url = "https://www.amazon.com/author/yuchao/"
+    weight = 5
+
+[[menu.main]]
     name = "Gallery"
     url = "https://www.instagram.com/yuchao.casd82/"
-    weight = 5
+    weight = 6
 
 # --Nested Menu--
 # [[menu.main]]

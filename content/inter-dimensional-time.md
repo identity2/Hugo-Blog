@@ -7,8 +7,10 @@ draft: false
 ---
 <img src="/inter-dimensional-time/cover.png" alt="Inter-dimensional Time" width="747px height=556px" />
 
-# Publish Date
-Before November 2018.
+# Purchase On Amazon
+[Paperback](https://www.amazon.com/dp/9574359441)
+
+[eBook](https://www.amazon.com/dp/B07HDSTV5F)
 
 # Sample Chapters
 [Recipe](https://drive.google.com/open?id=138sVuaC6AryQc1Fk-CLbMZNiDKPVEfHu) ． [Movies](https://drive.google.com/open?id=1x7h6R-o23wbqTpOZVfzDI-XqWgv8mfGb) ． [News](https://drive.google.com/open?id=1QduihcBtNx8FB3AA5lUpslc6X6ek2ZMq) ． [Life Pro Tips](https://drive.google.com/open?id=1yOigg9ik1FNcd5nsylZyWzPxzB8_EVkC) ． [Ads 1](https://drive.google.com/open?id=1_UuyLFgqLpBN60dXD9sB8NPYUEmLvXWQ) ． [Ads 2](https://drive.google.com/open?id=1uoVfG1lsIFnXzdk0x-hivI5XQYbbHCTU)
@@ -19,7 +21,7 @@ O piteous soul, in such dull dimensions thou sinkest...
 
 <br />
 
-Inter-dimensional Time is a cross dimensional pseudo-periodical published by Schineright Publishing Inc. in the great nation of the United States of Eurasia, Earth (Œ-137). It features all kinds of appealing topics such as pseudo-scientific discoveries, interstellar pseudo-politics, post-post-technologies, post-post-post-modern art, pseudo-literature, pseudo-music, pseudo-movies, real travel information, determinant advertisement, and other crazy but indispensable stuff.
+Inter-dimensional Time is a cross dimensional pseudo-periodical published by Schineright Publishing Inc. in the great nation of the United States of Eurasia, Earth (Œ-137). It features all kinds of appealing topics such as pseudo-scientific discoveries, interstellar molecular politics, techno-tech-tock-technologies, post-post-post-modern art, litter-literature, muse-music, move-movies, ravel travel gravel information, wal' liki mou' dædou yåk', determinant advertisement, and other crazy but indispensable stuff.
 
 <br />
 
@@ -31,7 +33,7 @@ This book is a must-buy for universal beings at ages below 11.5505 and above 11.
 
 <br />
 
-Inspired by Rick and Morty by the waaaah-ay.
+Inspired by Interdimensiontal Cable in Rick and Morty by the waaaah-ay.
 
 <br />
 
