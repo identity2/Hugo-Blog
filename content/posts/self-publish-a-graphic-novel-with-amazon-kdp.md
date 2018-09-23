@@ -1,17 +1,17 @@
 ---
-title: "Self-Publish a Graphical Novel With Amazon KDP"
+title: "Self-Publish a Graphic Novel With Amazon KDP"
 date: 2018-09-23T17:20:39+08:00
 thumbnail: ""
 static_page: false
 draft: false
 ---
-I just self-published my very first graphical novel [Inter-dimensional Time](/inter-dimensional-time) recently, using Amazon's KDP (Kindle Direct Publish) platform. In this article, I am going to share my experience with Amazon KDP, and briefly go through the process of self-publishing.
+I just self-published my very first graphic novel [Inter-dimensional Time](/inter-dimensional-time) recently, using Amazon's KDP (Kindle Direct Publish) platform. In this article, I am going to share my experience with Amazon KDP, and briefly go through the process of self-publishing.
 
 # Introduction
 [Amazon KDP](https://kdp.amazon.com/en_US/) is arguably the cheapest and most convenient self-publishing service out there. It requires no service fee and lets you publish your book in both eBook and paperback formats. The best part, as far as I'm concerned, is that the dimensions, paper material, cover art, and pricing are highly customizable. Since the book I published is art-heavy, these points are essential.
 
 # ISBN Application
-![ISBN](/posts/self-publish-a-graphical-novel-with-amazon-kdp/1.png)
+![ISBN](/posts/self-publish-a-graphic-novel-with-amazon-kdp/1.png)
 
 You can choose between using your own ISBN or let KDP get you a free one. In my opinion, publishing with your own ISBN is better because you will have more freedom if you want to republish your book on another platform. The process of getting your own ISBN differs from country to country. Usually, you can only apply for your ISBN in the country you live in.
 
@@ -24,7 +24,7 @@ In some countries (like U.S.A.) ISBN application requires a not-so-cheap service
 Fortunately, in my country (and most of other small countries), acquiring an ISBN is totally free, so I use my own ISBNs for both eBook and paperback formats.
 
 # Dimensions (Book Size)
-![Book Size](/posts/self-publish-a-graphical-novel-with-amazon-kdp/2.png)
+![Book Size](/posts/self-publish-a-graphic-novel-with-amazon-kdp/2.png)
 
 KDP offers a variety of book sizes, you can even enter a customized book size if you want to publish a book with sepcial dimensions. However, it is recommended that you publish your book in [industrial-standard dimensions](https://kdp.amazon.com/en_US/help/topic/G201834180#trim), since it gives you the opportunity to reach more audiences (see KDP's [Expanded Distribution](https://kdp.amazon.com/en_US/help/topic/GQTT4W3T5AYK7L45)), and well, it fits readers' bookshelves better.
 
@@ -33,7 +33,7 @@ KDP offers a variety of book sizes, you can even enter a customized book size if
 The most common book size is 6 x 9 inches, so I designed my book accordingly. (If you intend to publish only in eBook format, the dimensions do not matter that much. As long as it looks good on reading devices, its fine.)
 
 # Bleed
-![Bleed](/posts/self-publish-a-graphical-novel-with-amazon-kdp/3.png)
+![Bleed](/posts/self-publish-a-graphic-novel-with-amazon-kdp/3.png)
 
 For ordinary (text-oriented) books, you don't need [Bleed](https://kdp.amazon.com/en_US/help/topic/G201834180#bleed). However, when your book contains images or patterns reaching to the edge of the page, Bleed is neccessary. Bleed prevents some unwanted white edges from showing up after your book is trimmed. Since the graphic-rich book I published contains many "Bleeding" images, I choose to have my book Bleed.
 
@@ -43,7 +43,7 @@ Note that when selecting the Bleed option, you will have to make the dimensions 
 
 <br />
 
-![Inter-dimensional Time (Bleed Example)](/posts/self-publish-a-graphical-novel-with-amazon-kdp/4.png)
+![Inter-dimensional Time (Bleed Example)](/posts/self-publish-a-graphic-novel-with-amazon-kdp/4.png)
 
 <br />
 
@@ -58,7 +58,7 @@ To prevent your contents from being trimmed, and to provide a better reading exp
 
 <br />
 
-![Margin](/posts/self-publish-a-graphical-novel-with-amazon-kdp/5.png)
+![Margin](/posts/self-publish-a-graphic-novel-with-amazon-kdp/5.png)
 
 <br />
 
@@ -70,16 +70,16 @@ For instance, in this page of my book, the green line is the limit of the margin
 
 <br />
 
-![Inter-dimensional Time (Margin Example)](/posts/self-publish-a-graphical-novel-with-amazon-kdp/6.png)
+![Inter-dimensional Time (Margin Example)](/posts/self-publish-a-graphic-novel-with-amazon-kdp/6.png)
 
 # Paper Material
-![Paper Material](/posts/self-publish-a-graphical-novel-with-amazon-kdp/7.png)
+![Paper Material](/posts/self-publish-a-graphic-novel-with-amazon-kdp/7.png)
 
 KDP lets you choose between "Black and White with Cream Paper", "Black and White with White Paper", and "Colored with White Paper". The first one is most common for text-oriented books such as novels, while the later ones fit better on graphic-intense books. Note that this affects the printing cost.
 
 <br />
 
-![Cover Material](/posts/self-publish-a-graphical-novel-with-amazon-kdp/8.png)
+![Cover Material](/posts/self-publish-a-graphic-novel-with-amazon-kdp/8.png)
 
 <br />
 
@@ -92,13 +92,13 @@ The pricing scheme for paperback and eBook is different.
 
 **Paperback**
 
-![Printing Cost](/posts/self-publish-a-graphical-novel-with-amazon-kdp/9.png)
+![Printing Cost](/posts/self-publish-a-graphic-novel-with-amazon-kdp/9.png)
 
 After you preview and approve your book through KDP Previewer, the printing cost of your book will be calculated. In order to profit, you must set the (*price of your book times royalty rate*) higher than the printing cost. The royalty rate is 60% for paperback, so what you earn per copy sold is [*(Listing Price x 60%) - Printing Cost*].
 
 <br />
 
-![Paperback Cost](/posts/self-publish-a-graphical-novel-with-amazon-kdp/10.png)
+![Paperback Cost](/posts/self-publish-a-graphic-novel-with-amazon-kdp/10.png)
 
 <br />
 
@@ -112,7 +112,7 @@ The 35% scheme on the other hand, requires no delivery fee, so that's the valid 
 
 <br />
 
-![eBook Cost](/posts/self-publish-a-graphical-novel-with-amazon-kdp/11.png)
+![eBook Cost](/posts/self-publish-a-graphic-novel-with-amazon-kdp/11.png)
 
 <br />
 
@@ -127,11 +127,11 @@ There will be a "Not for Resale" banner printed across the cover of your proof c
 
 <br />
 
-![Inter-dimensional Time (Proof Copy Front)](/posts/self-publish-a-graphical-novel-with-amazon-kdp/12.png)
+![Inter-dimensional Time (Proof Copy Front)](/posts/self-publish-a-graphic-novel-with-amazon-kdp/12.png)
 
 <br />
 
-![Inter-dimensional Time (Proof Copy Back)](/posts/self-publish-a-graphical-novel-with-amazon-kdp/13.png)
+![Inter-dimensional Time (Proof Copy Back)](/posts/self-publish-a-graphic-novel-with-amazon-kdp/13.png)
 
 <br />
 

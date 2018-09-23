@@ -11,7 +11,7 @@ This page includes all the articles published on this blog.
 
 **September 2018**
 
-[Self-Publish a Graphical Novel with Amazon KDP](/posts/self-publish-a-graphical-novel-with-amazon-kdp)
+[Self-Publish a Graphic Novel with Amazon KDP](/posts/self-publish-a-graphic-novel-with-amazon-kdp)
 
 <br />
 

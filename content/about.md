@@ -20,7 +20,7 @@ I do what I must.
 * [HSNU](https://www.hs.ntnu.edu.tw). (2011-2014)
 
 # Projects
-Some games, some mobile apps, some black and white artworks, a graphical novel, and my life. [Link](/projects)
+Some games, some mobile apps, some black and white artworks, a graphic novel, and my life. [Link](/projects)
 
 # Experience
 * [Google Summer of Code 2017 (with Systers)](https://github.com/systers/powerup-iOS)
