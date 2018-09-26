@@ -6,13 +6,11 @@ static_page: true
 draft: false
 ---
 
-Hi, I'm Yu Chao (趙佑).
+I'm Yu Chao.
 
-I'm interested in what I should be interested in.
+I make great stuff.
 
-I believe in what I am supposed to believe in.
-
-I do what I must.
+This is my website.
 
 # Education
 * BSc. Computer Science at [CUHK](http://www.cuhk.edu.hk/). (2014-2015, 2019-2021 *hopefully*)
