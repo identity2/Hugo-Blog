@@ -43,3 +43,6 @@ Special Thanks to Yen Yen Lau.
 **There are also iMessage Stickers for kQq**
 
 [iMessage Stickers](https://itunes.apple.com/at/app/kqq-stickers/id1209818427)
+
+## Source Code
+[View On GitHub](https://github.com/casd82/kqq)

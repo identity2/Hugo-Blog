@@ -21,3 +21,6 @@ Electron and proton have difference sets of abilities, and are attracted/repelle
 <br />
 
 The final bosses of the levels are all elements of the periodic table, they all have unique attacks patterns and appearances according to it's application in the real world. I implemented the first three periods in this prototype.
+
+## Source Code
+[View On GitHub](https://github.com/casd82/quantum-game)

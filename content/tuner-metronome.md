@@ -36,3 +36,6 @@ DO NOT HESITATE, download now! Since I have no idea what to write next.
 
 ## Features
 * All the ones that good apps have.
+
+## Source Code
+[View on GitHub](https://github.com/casd82/iOS-Tuner-Metronome)

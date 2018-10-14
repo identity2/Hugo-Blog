@@ -5,10 +5,15 @@ thumbnail: ""
 static_page: true
 draft: false
 ---
-This is an extremely cool game in development, but I have nothing to show now. Come back later.
+This is an experimental platformer game which applies real photos as its graphic assets.
+
+The main characters are rubbish, the settings are rubbish, and this idea originated from rubbish.
 
 ## Release Date
-Will release an alpha version before 2019 summer. The completed version might never be released sadly. (Since I don't have enough spare time, and life is so short.)
+Before 2019 summer. Hopefully.
 
 ## Platforms
 Windows, macOS
+
+## Source Code
+[View On GitHub](https://github.com/casd82/Knights-Rubbish)

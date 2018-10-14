@@ -26,3 +26,6 @@ This is a project I made accidentally when I was testing out the microphone and 
 * Beautiful Background. Well, kind of.
 * Download for Free (with Ads).
 * That's It.
+
+## Source Code
+[View On GitHub](https://github.com/casd82/recordable-launchpad)
