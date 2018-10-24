@@ -11,8 +11,6 @@ draft: false
 ## Games
 [<img src="/projects/kqq.png" width="55px" height="55px" /> kQq](/kqq)
 
-[<img src="/projects/tall-as-the-sky.png" width="55px" height="55px" /> Tall as the Sky](/tall-as-the-sky)
-
 [<img src="/projects/the-forsakeners.png" width="55px" height="55px"/> Knights Rubbish (In Development)](/knights-rubbish)
 
 ## Apps
@@ -23,8 +21,10 @@ draft: false
 ## Illustrations
 [<img src="/projects/doodles-with-trash-poem.png" width="55px" height="55px"/> Doodles](https://www.instagram.com/yuchao.casd82/)
 
-## Game Prototypes:
+## Game Prototypes / Trivial Games:
 [<img src="/projects/boots-cuts.png" width="55px" height="55px"/> Boots-Cuts](/boots-cuts)
+
+[<img src="/projects/tall-as-the-sky.png" width="55px" height="55px" /> Tall as the Sky](/tall-as-the-sky)
 
 [<img src="/projects/quantum-game.png" width="55px" height="55px"/> Quantum Game](/quantum-game)
 
