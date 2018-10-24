@@ -179,3 +179,7 @@ These are the basics of how to program a rhythm game. By following the principle
 <br />
 
 Thanks a lot for reading the article and hope that it helps. My own rhythm game [Boots-Cuts](/boots-cuts) would be out in the next couple of years, stay tuned for more information! :D
+
+<br />
+
+**2018.10.24 Update:** I wrote a minimal rhythm game sample project in Unity. Feel free to download and play with the code. [View On GitHub](https://github.com/casd82/Rhythm-Game-Sample)
