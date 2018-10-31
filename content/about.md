@@ -27,15 +27,13 @@ Some games, some mobile apps, some black and white artworks, a graphic novel, an
 # Links
 [LinkedIn](https://www.linkedin.com/in/yu-chao-a55b85b2/)
 
-[Instagram](https://instagram.com/yuchao.casd82)
+[Instagram](https://instagram.com/yuchao.jpg)
 
 [Goodreads](https://www.goodreads.com/author/show/18427549.Yu_Chao)
 
-[Twitter](https://twitter.com/casd82)
+[Twitter](https://twitter.com/realYuChao)
 
-[GitHub](https://github.com/casd82)
-
-[YouTube](https://www.youtube.com/user/casd8822)
+[GitHub](https://github.com/YuChaoGithub)
 
 [404 Page Not Found](http://shinerightstudio.com/404)
 

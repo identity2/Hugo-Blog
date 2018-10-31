@@ -20,4 +20,4 @@ draft: false
 Boots-Cuts is a beatbox rhythm game. Players could record their voices as drum beats and play music notes by pressing the keys (just like other rhythm games).
 
 ## Source Code
-[View On GitHub](https://github.com/casd82/boots-cuts)
+[View On GitHub](https://github.com/YuChaoGithub/boots-cuts)

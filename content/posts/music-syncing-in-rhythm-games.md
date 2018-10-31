@@ -182,4 +182,4 @@ Thanks a lot for reading the article and hope that it helps. My own rhythm game 
 
 <br />
 
-**2018.10.24 Update:** I wrote a minimal rhythm game sample project in Unity. Feel free to download and play with the code. [View On GitHub](https://github.com/casd82/Rhythm-Game-Sample)
+**2018.10.24 Update:** I wrote a minimal rhythm game sample project in Unity. Feel free to download and play with the code. [View On GitHub](https://github.com/YuChaoGithub/Rhythm-Game-Sample)

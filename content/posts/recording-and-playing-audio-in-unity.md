@@ -132,4 +132,4 @@ public static void SaveAudioClipToDisk(AudioClip audioClip, string filename)
 }
 {{< / highlight >}}
 
-The full source code can be found on my [GitHub](https://github.com/casd82/Unity-Scripts/blob/master/AudioClipSerializer.cs)
+The full source code can be found on my [GitHub](https://github.com/YuChaoGithub/Unity-Scripts/blob/master/AudioClipSerializer.cs)

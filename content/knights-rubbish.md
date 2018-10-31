@@ -16,4 +16,4 @@ Before 2019 summer. Hopefully.
 Windows, macOS
 
 ## Source Code
-[View On GitHub](https://github.com/casd82/Knights-Rubbish)
+[View On GitHub](https://github.com/YuChaoGithub/Knights-Rubbish)

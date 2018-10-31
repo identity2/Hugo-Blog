@@ -28,4 +28,4 @@ This is a project I made accidentally when I was testing out the microphone and 
 * That's It.
 
 ## Source Code
-[View On GitHub](https://github.com/casd82/recordable-launchpad)
+[View On GitHub](https://github.com/YuChaoGithub/recordable-launchpad)

@@ -137,4 +137,4 @@ To perform Reposition Scrolling, just remove expand the `right_limit` of the scr
 
 Well, Constant Speed Scrolling could be done even without this script entirely. Just increment the position of the camera every frame and it is done.
 
-The source code of this article can be found on my GitHub: [Link](https://github.com/casd82/Godot-Scripts).
+The source code of this article can be found on my GitHub: [Link](https://github.com/YuChaoGithub/Godot-Scripts).

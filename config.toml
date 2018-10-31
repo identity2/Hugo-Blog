@@ -1,6 +1,6 @@
-baseurl = "https://casd82.github.io/"
+baseurl = "https://YuChaoGithub.github.io/"
 languageCode = "en-us"
-Title = "Shine Right Homepage"
+Title = "Shine Right Blog"
 theme = "shineright_theme"
 # Copyright notice. This is displayer in the footer.
 copyright = "Yu Chao (趙佑) © 2017"
@@ -9,11 +9,11 @@ copyright = "Yu Chao (趙佑) © 2017"
   paginate = 10
   # Social accounts. Link to these accounts are displayed in the header and
   # footer
-  twitter = "casd82"
-  # facebook = "casd82.yuchao"
-  instagram = "yuchao.casd82"
+  twitter = "realYuChao"
+  # facebook = ""
+  instagram = "yuchao.jpg"
   # googleplus = "https://plus.google.com/u/0/+ChaoAndrew" # https://plus.google.com/u/0/xxxxxx
-  github = "casd82"
+  github = "YuChaoGithub"
   # npm = "Your npm username"
   # codepen = "Your CodePen username"
   # dribbble = "Your Dribbble username"
@@ -22,7 +22,7 @@ copyright = "Yu Chao (趙佑) © 2017"
   # pinterest = "Your Pinterest username"
   # tumblr = "Your Tumblr username"
   # vimeo = "Your Vimeo username"
-  youtube = "casd8822"
+  # youtube = ""
   linkedin = "yu-chao-a55b85b2"
   # Disqus shortname
   disqus = "shineright-studio-yu-chao"
@@ -67,8 +67,8 @@ copyright = "Yu Chao (趙佑) © 2017"
     weight = 5
 
 [[menu.main]]
-    name = "Gallery"
-    url = "https://www.instagram.com/yuchao.casd82/"
+    name = "Doodles"
+    url = "https://www.instagram.com/yuchao.jpg/"
     weight = 6
 
 # --Nested Menu--

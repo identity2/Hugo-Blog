@@ -45,4 +45,4 @@ Special Thanks to Yen Yen Lau.
 [iMessage Stickers](https://itunes.apple.com/at/app/kqq-stickers/id1209818427)
 
 ## Source Code
-[View On GitHub](https://github.com/casd82/kqq)
+[View On GitHub](https://github.com/YuChaoGithub/kqq)
