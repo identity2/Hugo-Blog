@@ -1,20 +1,10 @@
 ---
-title: "Knights Rubbish"
-date: 2017-11-12T15:38:45+08:00
+title: "Knights Rubbish - The Knights"
+date: 2018-11-10T00:00:00+08:00
 thumbnail: ""
 static_page: true
 draft: false
 ---
-
-A "real life doodle"-styled platformer fighter (co-op arcade) game featuring our beloved character [Keshia Erasia](/knights-rubbish-heroes/keshia-erasia) and [his friends](/knights-rubbish-heroes/the-knights). They had risen from the rubbish and they seek for adventures. Exciting, eh?
-
-## Release Date
-Sometime in 2019.
-
-## Play On
-Steam, itch.io. (Store page not ready yet.)
-
-## The Knights
 [<img src="/knights-rubbish/keshia-erasia.png" width="100px" height="100px"/> Keshia Erasia](/knights-rubbish-heroes/keshia-erasia)
 
 [<img src="/knights-rubbish/wendy-floopy.png" width="100px" height="100px"/> Wendy Floopy](/knights-rubbish-heroes/wendy-floopy)
@@ -25,11 +15,18 @@ Steam, itch.io. (Store page not ready yet.)
 
 [<img src="/knights-rubbish/bross.png" width="100px" height="100px"/> Sirurueruerue Senyesuensuesue & Sugsesugsem Sosas](/knights-rubbish-heroes/bross)
 
+# Unreleased Knights
+
+<img src="/knights-rubbish/gladeos-cakeos.png" width="100px" height="100px"/> Glaseos Cakeos
+
+<img src="/knights-rubbish/lumie-candie.png" width="100px" height="100px"/> Lumie Candie
+
+<img src="/knights-rubbish/schi-schnail.png" width="100px" height="100px"/> Schi Schnail
+
+<img src="/knights-rubbish/waitie-changie.png" width="100px" height="100px"/> Waitie Changie
+
+<img src="/knights-rubbish/socklataaz-sockrateez.png" width="100px" height="100px"/> Socklataaz Sockrateez
+
 <br />
 
-[and more...](/knights-rubbish-heroes/the-knights)
-
-## Source Code
-[View On GitHub](https://github.com/YuChaoGithub/Knights-Rubbish)
-
-**The source code is for reference or research purposes, please purchase the game if you want to play it.**
+[Back to Knights Rubbish project page](/knights-rubbish)

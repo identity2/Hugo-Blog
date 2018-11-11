@@ -18,7 +18,7 @@ This is my website.
 * [HSNU](https://www.hs.ntnu.edu.tw). (2011-2014)
 
 # Projects
-Some games, some mobile apps, some black and white artworks, a graphic novel, and my life. [Link](/projects)
+Some games, some mobile apps, some black and white artworks, and a book. [Link](/projects)
 
 # Experience
 * [Google Summer of Code 2017 (with Systers)](https://github.com/systers/powerup-iOS)
@@ -28,6 +28,8 @@ Some games, some mobile apps, some black and white artworks, a graphic novel, an
 [LinkedIn](https://www.linkedin.com/in/yu-chao-a55b85b2/)
 
 [Instagram](https://instagram.com/yuchao.jpg)
+
+[YouTube](https://www.youtube.com/channel/UC3LBzCYKiqZ_S2FaJE7o_Vw)
 
 [Goodreads](https://www.goodreads.com/author/show/18427549.Yu_Chao)
 

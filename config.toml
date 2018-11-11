@@ -22,7 +22,7 @@ copyright = "Yu Chao (趙佑) © 2017"
   # pinterest = "Your Pinterest username"
   # tumblr = "Your Tumblr username"
   # vimeo = "Your Vimeo username"
-  # youtube = ""
+  youtube = "casd8822"
   linkedin = "yu-chao-a55b85b2"
   # Disqus shortname
   disqus = "shineright-studio-yu-chao"
@@ -67,7 +67,7 @@ copyright = "Yu Chao (趙佑) © 2017"
     weight = 5
 
 [[menu.main]]
-    name = "Doodles"
+    name = "Artworks"
     url = "https://www.instagram.com/yuchao.jpg/"
     weight = 6
 

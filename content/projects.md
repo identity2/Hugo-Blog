@@ -5,21 +5,22 @@ thumbnail: ""
 static_page: true
 draft: false
 ---
-## Graphic Novels
-[<img src="/projects/inter-dimensional-time.png" width="55px" height="55px" /> Inter-dimensional Time](/inter-dimensional-time)
 
 ## Games
-[<img src="/projects/kqq.png" width="55px" height="55px" /> kQq](/kqq)
+[<img src="/projects/the-forsakeners.png" width="55px" height="55px"/> Knights Rubbish](/knights-rubbish)
 
-[<img src="/projects/the-forsakeners.png" width="55px" height="55px"/> Knights Rubbish (In Development)](/knights-rubbish)
+[<img src="/projects/kqq.png" width="55px" height="55px" /> kQq](/kqq)
 
 ## Apps
 [<img src="/projects/tuner-metronome.png" width="55px height=55px" /> Tuner & Metronome](/tuner-metronome)
 
 [<img src="/projects/recordable-launchpad.png" width="55px" height="55px" /> Recordable Launchpad](/recordable-launchpad)
 
-## Illustrations
-[<img src="/projects/doodles-with-trash-poem.png" width="55px" height="55px"/> Doodles](https://www.instagram.com/yuchao.casd82/)
+## Books
+[<img src="/projects/inter-dimensional-time.png" width="55px" height="55px" /> Inter-dimensional Time](/inter-dimensional-time)
+
+## Artworks
+[<img src="/projects/doodles-with-trash-poem.png" width="55px" height="55px"/> Doodles](https://www.instagram.com/yuchao.jpg/)
 
 ## Game Prototypes / Trivial Games:
 [<img src="/projects/boots-cuts.png" width="55px" height="55px"/> Boots-Cuts](/boots-cuts)
