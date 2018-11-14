@@ -1,9 +1,9 @@
 baseurl = "https://YuChaoGithub.github.io/"
 languageCode = "en-us"
-Title = "Shine Right Blog"
+Title = "Shine Right Homepage"
 theme = "shineright_theme"
 # Copyright notice. This is displayer in the footer.
-copyright = "Yu Chao (趙佑) © 2017"
+copyright = "Yu Chao (趙佑) © 2018"
 
 [params]
   paginate = 10

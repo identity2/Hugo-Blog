@@ -6,13 +6,15 @@ static_page: true
 draft: false
 ---
 
-A "real life doodle"-styled platformer fighter (co-op arcade) game featuring our beloved character [Keshia Erasia](/knights-rubbish-heroes/keshia-erasia) and [his friends](/knights-rubbish-heroes/the-knights). They had risen from the rubbish and they seek for adventures. Exciting, eh?
+A co-op platformer fighter game made with real photos, featuring our beloved character [Keshia Erasia](/knights-rubbish-heroes/keshia-erasia) and [his friends](/knights-rubbish-heroes/the-knights). They have risen from the rubbish and they seek for adventures. Exciting, eh?
 
 ## Release Date
 Sometime in 2019.
 
-## Play On
-Steam, itch.io. (Store page not ready yet.)
+## Store Page
+Steam (Not ready yet.)
+
+[itch.io](https://shinerightstudio.itch.io/knights-rubbish)
 
 ## The Knights
 [<img src="/knights-rubbish/keshia-erasia.png" width="100px" height="100px"/> Keshia Erasia](/knights-rubbish-heroes/keshia-erasia)
@@ -28,6 +30,9 @@ Steam, itch.io. (Store page not ready yet.)
 <br />
 
 [and more...](/knights-rubbish-heroes/the-knights)
+
+## Other Links
+[Game Manual](/knights-rubbish/knights-rubbish-manual.pdf)
 
 ## Source Code
 [View On GitHub](https://github.com/YuChaoGithub/Knights-Rubbish)
