@@ -31,6 +31,16 @@ A co-op platformer fighter game made with real photos, featuring our beloved cha
 
 [and more...](/knights-rubbish-heroes/the-knights)
 
+## Features
+* 5 hilarious heroes to choose from.
+* Local co-op arcade.
+* Cool combo skills.
+* 5 levels in total. (About 2 hours of gameplay.)
+* Amazing photo realistic graphics.
+* Fun.
+* It only costs you couple dollars and cents.
+* Can't think of any other note-worthy features, sorry.
+
 ## Other Links
 [Game Manual](/knights-rubbish/knights-rubbish-manual.pdf)
 
