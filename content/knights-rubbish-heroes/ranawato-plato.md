@@ -11,7 +11,7 @@ Ranawato Plato was once the most beloved plate of a famous philosopher, Bobus. A
 
 <br />
 
-The founder of [Knights Rubbish](/knights-rubbish-heroes/keshia-erasia), Keshia Erasia happened to be among the audiences in one of Ranawato and the spoon’s magic show. Extremely spellbound by the show, Keshia recruited Ranawato as a member of Knights Rubbish. The spoon isn’t recruited because Keshia didn’t like spoons, nonetheless, Keshia agreed that Ranawato carry the spoon anywhere she went.
+The founder of [Knights Rubbish](/knights-rubbish-heroes/keshia-erasia), Keshia Erasia happened to be among the audiences in one of Ranawato and the spoon’s magic show. Extremely spellbound by the show, Keshia recruited Ranawato as a member of Knights Rubbish. The spoon wasn’t recruited because Keshia didn’t like spoons, nonetheless, Keshia agreed that Ranawato carry the spoon anywhere she went.
 
 # Combos
 

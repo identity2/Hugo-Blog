@@ -7,7 +7,7 @@ draft: false
 ---
 
 # Lore
-Keshia Erasia was once the happiest eraser in the world. His owner Bobby had always placed him inside an exquisite aluminum box after using him. Though becoming smaller everyday, Keshia still enjoyed the time with Bob…until one day, Bob tripped on a crossbar and dropped his aluminum box on the sidewalk. The pain was enough for Bob to forget the aluminum box and left. Keshia thus became just another forsaken rubbish on the side walk. Depressed, angered, and ERASAAAIED! Keshia picked up his companion Pencil and founded Knights Rubbish because why not? He planned to recruit other poor rubbish along his adventure.
+Keshia Erasia was once the happiest eraser in the world. His owner Bobby had always placed him inside an exquisite aluminum box after using him. Though becoming smaller everyday, Keshia still enjoyed the time with Bobby…until one day, Bobby tripped on a crossbar and dropped his aluminum box on the sidewalk. The pain was enough for Bobby to forget the aluminum box and left. Keshia thus became just another forsaken rubbish on the side walk. Depressed, angered, and ERASAAAIED! Keshia picked up his companion Pencil and founded Knights Rubbish because why not? He planned to recruit other poor rubbish along his adventure.
 
 # Combos
 

@@ -11,7 +11,7 @@ Wendy Floopy was once the 6th installation floppy disk of a famous operating sys
 
 <br />
 
-One day, [Keshia Erasia](/knights-rubbish-heroes/keshia-erasia), the founder of Knights Rubbish happened to pass by and fall in love with Wendy, but Wendy refused Keshia because he is ugly. Nonetheless, Wendy and Keshia were still good friends, and Wendy became a crucial member in Knights Rubbish.
+One day, [Keshia Erasia](/knights-rubbish-heroes/keshia-erasia), the founder of Knights Rubbish happened to pass by and fall in love with Wendy, but Wendy refused Keshia because he is ugly. Nonetheless, Wendy and Keshia still remained good friends, and Wendy became a crucial member in Knights Rubbish.
 
 # Combos
 

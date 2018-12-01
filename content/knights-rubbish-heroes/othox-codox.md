@@ -7,7 +7,7 @@ draft: false
 ---
 
 # Lore
-Othox Codox was once a magic codex written by the famous sorcerer Bobbington. Unfortunately, Bobbington was executed because homosexuality wasn’t legal then. All Bobbington’s precious publications were torn and ripped, some burnt in the merciless flames. Othox, though merely ripped into shreds, called for the Blessings of Rabimouchinus and gained a wheel chair to aid him. He practiced the magic written inside him as he ran away from the murderers and gradually became one of the greatest magic codex in the world. The founder of Knights Rubbish, [Keshia Erasia](/knights-rubbish-heroes/keshia-erasia) recruited Othox because Knights Rubbish lacked a mage.
+Othox Codox was once a magic codex written by the famous sorcerer Bobbington. Unfortunately, Bobbington was executed because homosexuality wasn’t legal then. All Bobbington’s precious publications were torn and ripped, some burnt in the merciless flames. Othox, though almost ripped into shreds, called for the Blessings of Rabimouchinus and granted a wheel chair to aid him. He practiced the magic written inside him as he ran away from the murderers and gradually became one of the greatest magic codex in the world. The founder of Knights Rubbish, [Keshia Erasia](/knights-rubbish-heroes/keshia-erasia) recruited Othox because Knights Rubbish lacked a mage.
 
 # Combos
 
