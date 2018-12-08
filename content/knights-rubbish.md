@@ -41,8 +41,3 @@ A co-op platformer fighter game made with real photos, featuring our beloved cha
 
 ## Other Links
 [Game Manual](/knights-rubbish/knights-rubbish-manual.pdf)
-
-## Source Code
-[View On GitHub](https://github.com/YuChaoGithub/Knights-Rubbish)
-
-**The source code is for reference or research purposes, please purchase the game if you want to play it.**
