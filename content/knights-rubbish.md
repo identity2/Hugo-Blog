@@ -11,8 +11,6 @@ draft: false
 ## Store Page
 [Steam](https://store.steampowered.com/app/980440)
 
-[itch.io](https://shinerightstudio.itch.io/knights-rubbish)
-
 ## Description
 A co-op platformer fighter game made with real photos, featuring our beloved character [Keshia Erasia](/knights-rubbish-heroes/keshia-erasia) and [his friends](/knights-rubbish-heroes/the-knights). They have risen from the rubbish and they seek for adventures. Exciting, eh?
 
