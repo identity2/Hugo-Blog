@@ -8,12 +8,10 @@ draft: false
 
 I'm Yu Chao.
 
-I make great stuff.
-
-This is my website.
+I make games and other forms of art.
 
 # Education
-* BSc. Computer Science at [CUHK](http://www.cuhk.edu.hk/). (2014-2015, 2019-2021 *hopefully*)
+* BSc. Computer Science at [CUHK](http://www.cuhk.edu.hk/). (2014-2015, 2019-2021)
 
 * [HSNU](https://www.hs.ntnu.edu.tw). (2011-2014)
 
@@ -41,7 +39,3 @@ Some games, some mobile apps, some black and white artworks, and a book. [Link](
 
 # TL;DR
 I am a good person.
-
-<br />
-
-![Shine Right](/about/picture.png)
