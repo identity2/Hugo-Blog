@@ -12,6 +12,8 @@ draft: false
 [<img src="/projects/kqq.png" width="55px" height="55px" /> kQq](/kqq)
 
 ## Apps
+[<img src="/projects/music-training.png" width="55px height=55px" /> Music Training](/music-training)
+
 [<img src="/projects/tuner-metronome.png" width="55px height=55px" /> Tuner & Metronome](/tuner-metronome)
 
 [<img src="/projects/recordable-launchpad.png" width="55px" height="55px" /> Recordable Launchpad](/recordable-launchpad)
