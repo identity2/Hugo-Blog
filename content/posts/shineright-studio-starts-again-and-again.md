@@ -13,7 +13,7 @@ Well, I've been moving my blog around different platforms quite a bit this year.
 
 <br />
 
-The reason why I switched to Hugo on GitHub is quite simple. I have to pay 100$ per year for my server on AWS if I continue self hosting my Ghost blog. With Hugo & GitHub, I only need to pay 12$ for my custom domain name, so hope you don't mind me expressing my love for GitHub and Hugo here <3. (Well, other than this static page generator thing, I really enjoy Hugo's *Les Miserables*.)
+The reason why I switched to Hugo on GitHub is quite simple. I have to pay 100USD per year for my server on AWS if I continue self hosting my Ghost blog. With Hugo & GitHub, I only need to pay 12USD for my custom domain name, so hope you don't mind me expressing my love for GitHub and Hugo here <3. (Well, other than this static page generator thing, I really enjoy Hugo's *Les Miserables*.)
 
 <br />
 

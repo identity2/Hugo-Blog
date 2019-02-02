@@ -11,8 +11,8 @@ draft: false
 
 A Sight Reading, Sight Singing, Interval Dictation, and Chord Progression Dictation training app.
 
-## Download On
-[App Store (iOS)](https://itunes.apple.com/us/app/id1451196113)
+## Release Date
+Before March 2019.
 
 ## Description
 You can train multiple music theory skills including Sight Reading, Sight Singing, Interval Dictation, and Chord Progression Dictation with this app!

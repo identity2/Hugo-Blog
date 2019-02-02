@@ -385,11 +385,11 @@ Another place where Stirling's formula is useful is in the field of computer sci
 
 <br />
 
-{{ highlight python linenos="table"}}
+{{< highlight python "linenos=table" >}}
 factorial(n):
     if (n=0) return 1
     else return n*factorial(n-1)
-{{ / highlight}}
+{{< / highlight >}}
 
 <br />
 
@@ -397,10 +397,10 @@ This algorithm is linear, meaning that it would run in $O(n)$ time. However, if 
 
 <br />
 
-{{ highlight python linenos="table" }}
+{{< highlight python "linenos=table" >}}
 factorial(n):
     return sqrt(PI*2)*pow(n / E, n)
-{{ / highlight }}
+{{< / highlight >}}
 
 <br />
 

@@ -58,12 +58,12 @@ This page includes all the articles published on this blog.
 [The Art of Game Design - Book Review](/posts/the-art-of-game-design-book-review)
 
 
-# Graphic Novel
+# Publishing
 
 [Self-Publish a Graphic Novel with Amazon KDP](/posts/self-publish-a-graphic-novel-with-amazon-kdp)
 
 
-# Random
+# Random Stuff
 
 [Shineright Studio Starts...again and again!](/posts/shineright-studio-starts-again-and-again)
 
@@ -78,13 +78,7 @@ This page includes all the articles published on this blog.
 
 [Privacy Policy](/privacy-policy)
 
-
-# Graphic Novels
-
-[Inter-dimensional Time](/inter-dimensional-time)
-
-
-# Game Projects
+###### Game Projects
 
 [Knights Rubbish](/knights-rubbish)
 
@@ -97,8 +91,12 @@ This page includes all the articles published on this blog.
 [Quantum Game](/quantum-game)
 
 
-# Mobile Apps
+###### Mobile Apps
 
 [Tuner & Metronome](/tuner-metronome)
 
 [Recorable Launchpad](/recordable-launchpad)
+
+###### Books
+
+[Inter-dimensional Time](/inter-dimensional-time)

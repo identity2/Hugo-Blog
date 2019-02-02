@@ -8,7 +8,7 @@ draft: false
 
 I'm Yu Chao.
 
-I make games and other forms of art.
+I create games and other forms of art.
 
 # Education
 * BSc. Computer Science at [CUHK](http://www.cuhk.edu.hk/). (2014-2015, 2019-2021)
@@ -16,7 +16,7 @@ I make games and other forms of art.
 * [HSNU](https://www.hs.ntnu.edu.tw). (2011-2014)
 
 # Projects
-Some games, some mobile apps, some black and white artworks, and a book. [Link](/projects)
+Some games, some mobile apps, some artworks, and a book. [Link](/projects)
 
 # Experience
 * [Google Summer of Code 2017 (with Systers)](https://github.com/systers/powerup-iOS)
