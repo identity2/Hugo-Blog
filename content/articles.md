@@ -10,6 +10,8 @@ This page includes all the articles published on this blog.
 
 # Game Dev
 
+[Knights Rubbish Released](/posts/knights-rubbish-released)
+
 [Customized 2D Following Camera in Godot](/posts/customized-2d-following-camera-in-godot)
 
 [Camera Moving & Scene Scrolling in Metal Slug 3](/posts/camera-moving-scene-scrolling-in-metal-slug-3)
@@ -66,37 +68,3 @@ This page includes all the articles published on this blog.
 # Random Stuff
 
 [Shineright Studio Starts...again and again!](/posts/shineright-studio-starts-again-and-again)
-
-
-# Static Pages
-
-[About](/about)
-
-[Projects](/projects)
-
-[Articles](/articles)
-
-[Privacy Policy](/privacy-policy)
-
-###### Game Projects
-
-[Knights Rubbish](/knights-rubbish)
-
-[kQq](/kqq)
-
-[Tall as the Sky](/tall-as-the-sky)
-
-[Boots-Cuts](/boots-cuts)
-
-[Quantum Game](/quantum-game)
-
-
-###### Mobile Apps
-
-[Tuner & Metronome](/tuner-metronome)
-
-[Recorable Launchpad](/recordable-launchpad)
-
-###### Books
-
-[Inter-dimensional Time](/inter-dimensional-time)

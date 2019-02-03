@@ -5,7 +5,7 @@ thumbnail: ""
 static_page: false
 draft: false
 ---
-I made an iOS [Tuner & Metronome App](/tuner-metronome) last couple of months due to boredom. Suffering from boredom again this month, I decided to write an article on how I implement it.
+I made an iOS [Tuner & Metronome App](/tuner-music-training) last couple of months due to boredom. Suffering from boredom again this month, I decided to write an article on how I implement it.
 
 <br />
 
