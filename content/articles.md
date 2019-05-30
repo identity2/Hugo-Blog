@@ -7,7 +7,6 @@ draft: false
 ---
 This page includes all the articles published on this blog.
 
-
 # Game Dev
 
 [Knights Rubbish Released](/posts/knights-rubbish-released)
@@ -64,6 +63,8 @@ This page includes all the articles published on this blog.
 
 [Self-Publish a Graphic Novel with Amazon KDP](/posts/self-publish-a-graphic-novel-with-amazon-kdp)
 
+# CUHK Course Review
+[CUHK Course Review](/course-review)
 
 # Random Stuff
 

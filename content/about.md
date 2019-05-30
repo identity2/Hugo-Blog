@@ -6,9 +6,15 @@ static_page: true
 draft: false
 ---
 
-I'm Yu Chao.
+I'm Yu Chao (趙佑) from Taiwan.
 
-I create games and other forms of art.
+<br />
+
+I am a computer science undergraduate interested in Game Development, Computer Graphics, and Artificial Intelligence.
+
+<br />
+
+I also enjoy drawing, writing, making simple apps, and creating random stuff in my spare time.
 
 # Education
 * BSc. Computer Science at [CUHK](http://www.cuhk.edu.hk/). (2014-2015, 2019-2021)
