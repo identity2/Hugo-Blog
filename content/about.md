@@ -14,7 +14,11 @@ I am a computer science undergraduate interested in Game Development, Computer G
 
 <br />
 
-I also enjoy drawing, writing, making simple apps, and creating random stuff in my spare time.
+I kill time by reading and listening to music.
+
+<br />
+
+I murder time by drawing, writing, making simple apps, and creating random stuff.
 
 # Education
 * BSc. Computer Science at [CUHK](http://www.cuhk.edu.hk/). (2014-2015, 2019-2021)
@@ -30,6 +34,8 @@ Some games, some mobile apps, some artworks, and a book. [Link](/projects)
 
 # Links
 [LinkedIn](https://www.linkedin.com/in/yu-chao-a55b85b2/)
+
+[Medium](https://medium.com/@realYuChao)
 
 [Instagram](https://instagram.com/yuchao.jpg)
 
