@@ -37,7 +37,9 @@ Some games, some mobile apps, some artworks, and a book. [Link](/projects)
 
 [Medium](https://medium.com/@realYuChao)
 
-[Instagram](https://instagram.com/yuchao.jpg)
+[Instagram (Personal)](https://instagram.com/yuchao.jpg)
+
+[Instagram (Rodhead)](https://instagram.com/rodhead_daily)
 
 [YouTube](https://www.youtube.com/channel/UC3LBzCYKiqZ_S2FaJE7o_Vw)
 
