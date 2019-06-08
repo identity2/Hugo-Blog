@@ -26,7 +26,7 @@ Fortunately, in my country (and most of other small countries), acquiring an ISB
 # Dimensions (Book Size)
 ![Book Size](/posts/self-publish-a-graphic-novel-with-amazon-kdp/2.png)
 
-KDP offers a variety of book sizes, you can even enter a customized book size if you want to publish a book with sepcial dimensions. However, it is recommended that you publish your book in [industrial-standard dimensions](https://kdp.amazon.com/en_US/help/topic/G201834180#trim), since it gives you the opportunity to reach more audiences (see KDP's [Expanded Distribution](https://kdp.amazon.com/en_US/help/topic/GQTT4W3T5AYK7L45)), and well, it fits readers' bookshelves better.
+KDP offers a variety of book sizes, you can even enter a customized book size if you want to publish a book with special dimensions. However, it is recommended that you publish your book in [industrial-standard dimensions](https://kdp.amazon.com/en_US/help/topic/G201834180#trim), since it gives you the opportunity to reach more audiences (see KDP's [Expanded Distribution](https://kdp.amazon.com/en_US/help/topic/GQTT4W3T5AYK7L45)), and well, it fits readers' bookshelves better.
 
 <br />
 
@@ -35,7 +35,7 @@ The most common book size is 6 x 9 inches, so I designed my book accordingly. (I
 # Bleed
 ![Bleed](/posts/self-publish-a-graphic-novel-with-amazon-kdp/3.png)
 
-For ordinary (text-oriented) books, you don't need [Bleed](https://kdp.amazon.com/en_US/help/topic/G201834180#bleed). However, when your book contains images or patterns reaching to the edge of the page, Bleed is neccessary. Bleed prevents some unwanted white edges from showing up after your book is trimmed. Since the graphic-rich book I published contains many "Bleeding" images, I choose to have my book Bleed.
+For ordinary (text-oriented) books, you don't need [Bleed](https://kdp.amazon.com/en_US/help/topic/G201834180#bleed). However, when your book contains images or patterns reaching to the edge of the page, Bleed is necessary. Bleed prevents some unwanted white edges from showing up after your book is trimmed. Since the graphic-rich book I published contains many "Bleeding" images, I choose to have my book Bleed.
 
 <br />
 
@@ -104,7 +104,7 @@ After you preview and approve your book through KDP Previewer, the printing cost
 
 **eBook**
 
-For eBooks, there are two royalty schemes: 70% or 35%. The biggest difference between the 70% and 35% scheme is that for 70% royalty scheme, KDP will charge the "Delivery Fee" of your book. That is, if the digital size of your book is large, a significant amount of profit will be deducted. (What? A "delivery fee" for digital contents? Yes, I know it doesn't make sense at all, but that's their rule.) For my book, the delivery fee is 12.67$ (even more expensive than my printing cost...), so the 70% scheme is definately bad for me. (Unless I set the price of my book higher than 12.67$.)
+For eBooks, there are two royalty schemes: 70% or 35%. The biggest difference between the 70% and 35% scheme is that for 70% royalty scheme, KDP will charge the "Delivery Fee" of your book. That is, if the digital size of your book is large, a significant amount of profit will be deducted. (What? A "delivery fee" for digital contents? Yes, I know it doesn't make sense at all, but that's their rule.) For my book, the delivery fee is 12.67$\$$ (even more expensive than my printing cost...), so the 70% scheme is definately bad for me. (Unless I set the price of my book higher than 12.67$\$$.)
 
 <br />
 

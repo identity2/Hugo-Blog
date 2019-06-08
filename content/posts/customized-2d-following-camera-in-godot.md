@@ -13,7 +13,7 @@ I will be using the open source [Godot Engine](https://godotengine.org) with **G
 
 <br />
 
-First, lets define some variables we'll use later.
+First, let's define some variables we'll use later.
 
 {{< highlight python "linenos=table" >}}
 # Scroll the screen (aka. move the camera) when the character reaches the margins.
@@ -130,7 +130,7 @@ Limited Scrolling could be done by assigning `right_limit` and `left_limit` to t
 #### Reposition Scrolling
 ![Reposition Scrolling](/posts/camera-moving-scene-scrolling-in-metal-slug-3/Clip3.gif)
 
-To perform Reposition Scrolling, just remove expand the `right_limit` of the script, and the character would snap back to `drag_right_margin`. However, if you want the snapping to look smoothly like in Metal Slug 3, you might want to do some *Lerp*ing every frame to grually move the camera to its target position.
+To perform Reposition Scrolling, just remove expand the `right_limit` of the script, and the character would snap back to `drag_right_margin`. However, if you want the snapping to look smoothly like in Metal Slug 3, you might want to do some *Lerp*ing every frame to gradually move the camera to its target position.
 
 #### Constant Speed Scrolling
 ![Constant Speed Scrolling](/posts/camera-moving-scene-scrolling-in-metal-slug-3/Clip7.gif)

@@ -26,7 +26,7 @@ git remote add origin https://github.com/your_username/your_repo.git
 {{< / highlight >}}
 
 ## Activate Travis on GitHub
-Now it's time to integrate Travis to your GitHub repo. Go to the [official website of Travis CI](https://travis-ci.org) and hit the "Sign in with GitHub" button on the upper right corner. Log in using your GitHub account. You will find your GitHub avatar picture appearing on the upper right corener of the webpage if you logged in successfully. Click your avatar picture and you will see all of your GitHub repos.
+Now it's time to integrate Travis to your GitHub repo. Go to the [official website of Travis CI](https://travis-ci.org) and hit the "Sign in with GitHub" button on the upper right corner. Log in using your GitHub account. You will find your GitHub avatar picture appearing on the upper right corner of the webpage if you logged in successfully. Click your avatar picture and you will see all of your GitHub repos.
 
 ![Pic-1](/posts/build-test-automation-for-xcode-projects-using-travis-ci/1.png)
 

@@ -47,7 +47,7 @@ The difference is that instead of "Attack-key Combos" (or charged attacks) in Sm
 Maplestory is enjoyable due to the variety of mobs and the sense of satisfaction after defeating bosses (with friends). I studied some enemy behaviors and boss designs of the game and came up with several bosses and over 20 mobs for Knights Rubbish. They were all implemented with simple state machines so that the code base is easier to manage.
 
 ## Made with Godot
-Godot is such a powerful and wonderful project for game developers, especially for hobbyists and indies. It is opensource, free, customizable, and comparable with modern commercial game engines. I'm really thankful of the contributors and the kind community for helping me out during the development of Knights Rubbish, and if Knights Rubbish actually profits (which um... is kind of unlikely to be honest), I'll definitely donate a pecentage of the earnings to Godot.
+Godot is such a powerful and wonderful project for game developers, especially for hobbyists and indies. It is open source, free, customizable, and comparable with modern commercial game engines. I'm really thankful of the contributors and the kind community for helping me out during the development of Knights Rubbish, and if Knights Rubbish actually profits (which um... is kind of unlikely to be honest), I'll definitely donate a percentage of the earnings to Godot.
 
 ## Links
 [Knights Rubbish Homepage](/knights-rubbish)
@@ -55,8 +55,6 @@ Godot is such a powerful and wonderful project for game developers, especially f
 [Introduction to the Knights](/knights-rubbish-heroes/the-knights)
 
 [Steam Store](https://store.steampowered.com/app/980440)
-
-[itch.io Store](https://shinerightstudio.itch.io/knights-rubbish)
 
 ## Conclusion
 Another game title under by belt. Yay.

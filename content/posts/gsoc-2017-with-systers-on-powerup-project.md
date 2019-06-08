@@ -10,7 +10,7 @@ I've always wanted to participate in Google Summer of Code (GSoC) someday. Fortu
 ## Selecting Organizations
 When selecting which organizations to contribute, I focus mostly on what am I capable of doing, what interests me the most, and which projects would enhance my portfolio for my dream career. I'll write those points in more details in the following sections.
 
-#### My Capabilites
+#### My Capabilities
 I first looked for the organizations by which programming languages I know. Since I'm more comfortable in writing C/C++, C#, Swift, Java, and maybe Python code, I searched only for organizations with projects written in those languages. Furthermore, some projects require an understanding of huge and complex APIs or systems. Since I'm not confident in learning those within one or two months, I filtered those projects out also.
 
 #### My Interests
@@ -40,7 +40,7 @@ I've spent a lot of time in the timeline section because it's incredibly vital t
 
 <br />
 
-I started planning my timeline by evaluating my own skill set and capabilities. After that, I jotted down couple of major milestones which I was quite sure I would be able to attain during the three months of GSoC. The last thing to do is to fill in the details. I've made a 3 pages long form comprising a weekly schedule about what exactly would I work on in the period. By doing so, I could show not only I'm ready for the project but also I am able to organize my own tasks and evalute my work time carefully.
+I started planning my timeline by evaluating my own skill set and capabilities. After that, I jotted down couple of major milestones which I was quite sure I would be able to attain during the three months of GSoC. The last thing to do is to fill in the details. I've made a 3 pages long form comprising a weekly schedule about what exactly would I work on in the period. By doing so, I could show not only I'm ready for the project but also I am able to organize my own tasks and evaluate my work time carefully.
 
 <br />
 
