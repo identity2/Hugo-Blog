@@ -54,9 +54,11 @@ This page includes all the articles published on this blog.
 [GSoC 2017 with Systers on PowerUp Project](/posts/gsoc-2017-with-systers-on-powerup-project)
 
 
-# Book Review
+# Book / Online Course Review
 
 [The Art of Game Design - Book Review](/posts/the-art-of-game-design-book-review)
+
+[Andrew Ng Machine Learning Course Review and Brief Notes](/posts/andrew-ng-machine-learning-course-review)
 
 
 # Publishing
@@ -66,6 +68,8 @@ This page includes all the articles published on this blog.
 # CUHK Course Review
 [CUHK Course Review](/course-review)
 
-# Random Stuff
+# Trash Posts
 
 [Shineright Studio Starts...again and again!](/posts/shineright-studio-starts-again-and-again)
+
+[Trying out Medium](/posts/trying-out-medium)
