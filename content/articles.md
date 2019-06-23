@@ -60,6 +60,9 @@ This page includes all the articles published on this blog.
 
 [Andrew Ng Machine Learning Course Review and Brief Notes](/posts/andrew-ng-machine-learning-course-review)
 
+# Umm... Art?
+[Music in Film Terminology](/posts/music-in-film-terminology.md)
+
 
 # Publishing
 
