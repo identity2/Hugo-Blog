@@ -7,6 +7,10 @@ draft: false
 ---
 This page includes all the articles published on this blog.
 
+# Computer Science
+
+[Proving NP-Completeness by Restriction](/posts/prove-np-complete-by-restriction)
+
 # Game Dev
 
 [Knights Rubbish Released](/posts/knights-rubbish-released)
@@ -62,7 +66,6 @@ This page includes all the articles published on this blog.
 
 # Umm... Art?
 [Music in Film Terminology](/posts/music-in-film-terminology.md)
-
 
 # Publishing
 

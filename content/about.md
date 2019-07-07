@@ -10,7 +10,7 @@ I'm Yu Chao (趙佑) from Taiwan.
 
 <br />
 
-I am a computer science undergraduate interested in Game Development, Computer Graphics, and Artificial Intelligence.
+I am a computer science undergraduate interested in Game Development.
 
 <br />
 
