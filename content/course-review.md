@@ -16,9 +16,14 @@ Below is a list of my reviews on some CUHK (The Chinese University of Hong Kong)
 * [CSCI2100/ESTR2102 Data Structures](/cuhk-course-review/csci2100-estr2102)
 * [ENGG2430/ESTR2002 Probability and Statistics for Engineers](/cuhk-course-review/engg2430-estr2002)
 * [CSCI3250+CSCI3251 Computers & Society + Engineering Practicum](/cuhk-course-review/csci3250-csci3251)
+* [CSCI3130 Formal Language and Automata Theory](/cuhk-course-review/csci3130)
+* [CSCI3150/ESTR3102 Introduction to Operating Systems](/cuhk-course-review/csci3150-estr3102)
+* [CSCI3160 Design and Analysis of Algorithms](/cuhk-course-review/csci3160)
 
 # Computer Science Electives
-Empty as for now.
+* [CSCI2040 Introduction to Python](/cuhk-course-review/csci2040)
+* [CSCI3220 Algorithms for Bioinformatics](/cuhk-course-review/csci3220)
+* [CSCI3230/ESTR3108 Fundamentals of Artificial Intelligence](/cuhk-course-review/csci3230-estr3108)
 
 # Language Requirements
 * [ELTU2014 English for Engineers](/cuhk-course-review/eltu2014)
