@@ -22,18 +22,17 @@ Below is a list of all the courses I have taken during my unversity studies at C
 
 # Computer Science Electives
 * [CSCI2040 Introduction to Python](/cuhk-course-review/csci2040)
+* CSCI3170 Introduction to Database Systems
 * [CSCI3220 Algorithms for Bioinformatics](/cuhk-course-review/csci3220)
 * [CSCI3230/ESTR3108 Fundamentals of Artificial Intelligence](/cuhk-course-review/csci3230-estr3108)
-* CSCI3280 Introduction to Multimedia Systems
 * CSCI4430 Data Communication and Computer Networks
-* CENG2010 Digital Design Laboratory
-* CENG3420 Computer Organization and Design
 
 # General Education
 * GENA1112 Aspects of General Education
 * GENA1113 Student-Oriented Teaching and Seminar
 * UGFH1000 In Dialogue with Humanity
 * UGFN1000 In Dialogue with Nature
+* UGEA2230 Introduction to Transformation in Chinese History
 * [UGEB2440 Chemistry of Food and Drinks](/cuhk-course-review/ugeb2440)
 * UGEC2007 Transitional Justice
 * [UGED2133 Music in Film](/cuhk-course-review/uged2133)

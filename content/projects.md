@@ -24,6 +24,8 @@ draft: false
 ## Artworks
 [<img src="/projects/doodles-with-trash-poem.png" width="55px" height="55px"/> Doodles](https://www.instagram.com/yuchao.jpg/)
 
+[<img src="/projects/rodhead-daily.png" width="55px" height="55px"/> Line Stickers](https://store.line.me/stickershop/product/4293449/en)
+
 ## Game Prototypes / Trivial Games:
 [<img src="/projects/boots-cuts.png" width="55px" height="55px"/> Boots-Cuts](/boots-cuts)
 
