@@ -32,17 +32,5 @@ As bad luck would have it, when Lil' Neg was enjoying his new life with Lil' Pos
 
 Brokenhearted, Lil' Neg began its long journey across multiple galaxies in search of his love...
 
-## Credits
-* Yuan "Amy" Chao - Background Art
-* Yu Chao - Animation, Programming, Marketing, Graphics, Sound Effects
-* Chung "Alex" Chao - Background Music
-
-Special Thanks to Yen Yen Lau.
-
-<br />
-**There are also iMessage Stickers for kQq**
-
-[iMessage Stickers](https://itunes.apple.com/at/app/kqq-stickers/id1209818427)
-
 ## Source Code
 [View On GitHub](https://github.com/YuChaoGithub/kqq)
