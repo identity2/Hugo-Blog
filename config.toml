@@ -3,7 +3,10 @@ languageCode = "en-us"
 Title = "Shine Right Homepage"
 theme = "shineright_theme"
 # Copyright notice. This is displayer in the footer.
-copyright = "Yu Chao (趙佑) © 2019"
+copyright = "Yu Chao (趙佑) © 2020"
+
+[markup.goldmark.renderer]
+unsafe = true
 
 [params]
   paginate = 10

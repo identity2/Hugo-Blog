@@ -10,7 +10,7 @@ Proving NP-Completeness is a core topic in the studies of algorithms. For most o
 
 <br />
 
-However, many problem reduction methods are extremely subtle and often require some "devine instincts" to come up with in the first place. Fortunately, there is a far more simpler approach to prove NP-Completeness of a problem, that is, the restriction method.
+However, many problem reduction methods are extremely subtle and often require some "devine instincts" to come up with in the first place. Fortunately, there is a far simpler approach to prove NP-Completeness of a problem, that is, the restriction method.
 
 <br />
 

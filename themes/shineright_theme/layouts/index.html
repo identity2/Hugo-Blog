@@ -1,10 +1,15 @@
 {{ partial "header.html" . }}
+
 {{ partial "menu.html" . }}
-{{ range $index, $page := (.Paginate (where .Data.Pages "Type" "posts")).Pages }}
-{{ if ne $index 0 }}
+
+{{ range $index, $page := (.Paginate (where (where .Site.RegularPages "Type" "posts") ".Params.hidden" "!=" "true" )).Pages }}
+    {{ if ne $index 0 }}
+        {{ end }}
+    {{ .Render "li" }}
 {{ end }}
-{{ .Render "li" }}
-{{ end }}
+
 {{ partial "pagination.html" .Paginator }}
+
 {{ partial "siteinfo.html" . }}
+
 {{ partial "footer.html" . }}

@@ -1,24 +1,24 @@
 #!/bin/bash
 
-echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
-
-# Build the project.
-hugo -t shineright_theme # if using a theme, replace with `hugo -t <YOURTHEME>`
-
-# Go To Public folder
-cd public
-# Add changes to git.
-git add .
-
-# Commit changes.
-msg="rebuilding site `date`"
-if [ $# -eq 1 ]
-  then msg="$1"
+if [ $# -ne 1 ]
+then
+  echo "Error: You need an argument for the commit message."
+  exit 1
 fi
+
+msg="$1"
+
+echo "Building the Hugo site..."
+hugo -t shineright_theme
+
+echo "Pushing the public file to GitHub..."
+cd public
+git add .
 git commit -m "$msg"
+git push
 
-# Push source and build repos.
-git push origin master
-
-# Come Back up to the Project Root
+echo "Pushing the Hugo project file to GiHub..."
 cd ..
+git add .
+git commit -m "$msg"
+git push
