@@ -14,7 +14,7 @@ Since this is an introduction to machine learning course, very little mathematic
 
 <br />
 
-Though Python is the most popular language for machine learning nowadays, the course is taught in Matlab (or Octave). To many, this might be a minus for the course, but I find it simpler to implement the machine learning algorithms in Octave than in Python due to the cleaner syntax (for math eqations). This lets us focus on the mathematical equations and the machine learning concepts themselves rather than the details of programming languages. As for programming background, I would say that familiarity with the basics of programming (i.e. loops, if-statements, assignments, operators, etc.) is sufficient for you to handle the programming exercises.
+Though Python is the most popular language for machine learning nowadays, the course is taught in Matlab (or Octave). To many, this might be a minus for the course, but I find it simpler to implement the machine learning algorithms in Octave than in Python due to the cleaner syntax (for math equations). This lets us focus on the mathematical equations and the machine learning concepts themselves rather than the details of programming languages. As for programming background, I would say that familiarity with the basics of programming (i.e. loops, if-statements, assignments, operators, etc.) is sufficient for you to handle the programming exercises.
 
 <br />
 
@@ -57,7 +57,7 @@ The basic syntax of Octave programming language is introduced here. Since Octave
 **Cost Function:** $J(θ)=-\frac{1}{m}\sum _{i=1}^{m}(y^{(i)} \log{h_θ(x^{(i)})}+(1-y^{(i)})\log{(1-h_θ(x^{(i)}))})$
 
 ### Regularization
-This section discusses some common ways to adress overfitting, that is, **Model Selection**, **Feature Selection**, and the most important **Regularization**. It shows that by penalizing the magnitude of the parameters, the curve would less likely to overfit the dataset.
+This section discusses some common ways to address overfitting, that is, **Model Selection**, **Feature Selection**, and the most important **Regularization**. It shows that by penalizing the magnitude of the parameters, the curve would less likely to overfit the dataset.
 
 ##### Linear Regression with Regularization (m training data, n features):
 
@@ -80,7 +80,7 @@ $θ_0 := θ_0 - \alpha\frac{1}{m}\sum _{i=1}^{m}((h_θ(x^{(i)})-y^{(i)})x_0^{(0)
 $θ_j := θ_j - \alpha(\frac{1}{m}\sum _{i=1}^{m}((h_θ(x^{(i)})-y^{(i)})x_j^{(0)}-\frac{\lambda}{m}θ_j)$
 
 ### Neural Networks
-In recent years, the study of neural networks became increasingly popular due to the advance in computing power and the abundance of data collected. As a result, the instructor spent quite some time discussing the topics of neural networks. **Forward Propagation**, **Back Propagation**, and **One-Hot Encoding** are introduced, but the deeper mathematical derivations are skipped so the technical level is managable for beginners.
+In recent years, the study of neural networks became increasingly popular due to the advance in computing power and the abundance of data collected. As a result, the instructor spent quite some time discussing the topics of neural networks. **Forward Propagation**, **Back Propagation**, and **One-Hot Encoding** are introduced, but the deeper mathematical derivations are skipped so the technical level is manageable for beginners.
 
 ##### Forward Propagation (m training data, n features, L layers, K classes):
 **Feature:** $x = a^{(1)} = \begin{bmatrix}x_0 \\\ x_1 \\\ ... \\\ x_n \end{bmatrix}$
@@ -102,7 +102,7 @@ $\frac{\partial}{\partial Θ _{ij}^{(l)}} J(Θ) = a_j^{l} \delta _i^{(l+1)}$
 ($.*$ means element-wise multiplication.)
 
 ### Debugging: Variance vs. Bias
-This section gives us some useful techniques in debugging a machine learning system, including **Cross Validation Set**, **Bias**, **Variance**, etc. It also introduces some common terms such as **Percision**, **Recall**, and **F1 Score**. After studying this section, you will have a better intuition on how to solve machine learning bugs by plotting the learning curves.
+This section gives us some useful techniques in debugging a machine learning system, including **Cross Validation Set**, **Bias**, **Variance**, etc. It also introduces some common terms such as **Precision**, **Recall**, and **F1 Score**. After studying this section, you will have a better intuition on how to solve machine learning bugs by plotting the learning curves.
 
 ### Support Vector Machines
 **Support Vector Machine (SVM)** is another solution to classification problems. The instructor does not go in depth into this subject, but still gives us a clear view on its mechanics and its intuition. The overall idea is to compute new feature depending on proximity to established *landmarks*.
@@ -122,7 +122,7 @@ Repeat:
 ```
 
 ### Principal Component Analysis
-To visualize or compress data, we commonly need to shrink the number of dimensions of a set of data. **Principal Componenet Analysis** allows us to approximate and transform high-dimensional feature sets into lower dimensional ones.
+To visualize or compress data, we commonly need to shrink the number of dimensions of a set of data. **Principal Component Analysis** allows us to approximate and transform high-dimensional feature sets into lower dimensional ones.
 
 ### Anomaly detection
 This is another useful unsupervised learning algorithm. It adopts **Density Estimation** to find out which  are anomalies in a large set of data points. Gaussian distribution and Multivariate Gaussian distribution would be mentioned and explained briefly in this section.
@@ -134,7 +134,7 @@ Couple algorithms for building a movie recommender system are introduced in this
 Some concerns about large scale machine learning systems are discussed in this section. For example, **Batch Gradient Descent** and **Stochastic Gradient Descent** are compared. Other techniques such as **Online Learning** and **Map-Reduce** are also introduced here.
 
 ### Example: Photo OCR
-Lastly, an example of an application of machine learning is introduced. The instructor shows us the whole machine learning pipline of how the system is designed and and it works.
+Lastly, an example of an application of machine learning is introduced. The instructor shows us the whole machine learning pipeline of how the system is designed and and it works.
 
 # Post Scripts
-Not until I finished taking this course did I notice the vastness of machine learning. It is really a mathematics-involved field with a steep learning curve. Seeing almost 90% of my fellow Computer Science classmates persuing this career path makes me wonder how many of them can really make it. As for me, I'll probably just play with the "applied side" of machine learning instead of doing it for a living.
+Not until I finished taking this course did I notice the vastness of machine learning. It is really a mathematics-involved field with a steep learning curve. Seeing almost 90% of my fellow Computer Science classmates pursuing this career path makes me wonder how many of them can really make it. As for me, I'll probably just play with the "applied side" of machine learning instead of doing it for a living.

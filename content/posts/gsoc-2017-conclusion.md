@@ -71,7 +71,7 @@ In GSoC 2017, we had a UI/UX designer team dedicated to redesign UI elements and
 
 <br />
 
-Thanks to the designer team, new UI elements and graphic assets for PowerUp are more minimalistic, sleek, and modern. I believe that they really defined a great art style for the project which adolescent girls will truly enjoy.
+Thanks to the designer team, new UI elements and graphic assets for PowerUp are more minimalist, sleek, and modern. I believe that they really defined a great art style for the project which adolescent girls will truly enjoy.
 
 ## Challenges
 
@@ -90,7 +90,7 @@ Before GSoC 17, I barely knew the meaning of "unit testing" or "continuous integ
 #### Workflows
 I did not really know the mechanics of GitHub before GSoC 17. For the community bonding period, I spent most of my time trying out GitHub and asking questions about the pull request workflow. I remember that I accidentally deleted a pending PR branch I submitted in community bonding period when I was trying out "push --force". It is good that I figured out the workflow before GSoC coding period actually started, or I may misuse the infamous "--force" again and delete all of my hard work.
 
-## Take-Aways
+## Takeaways
 I really learned a great deal throughout GSoC 17. As I mentioned above, I learned iOS & Swift development, unit testing with Xcode, continuous integration, and the pull request workflow of GitHub.
 
 <br />

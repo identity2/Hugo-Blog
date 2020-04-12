@@ -9,7 +9,7 @@ draft: false
 Just took an interesting gen-eds course **Music in Film** last semester. Though I publish mostly technical or game dev articles on this blog, I really enjoyed the materials in the course and I'd love to share the basics (that is, the terminology) of the course here. (Note we refer "music in film" as the score music of films rather than the sound effects.)
 
 # Tonality vs. Atonality
-**Tonality** is a principle which the music is composed to center around a *tonic central*. It forms a more "complete" and oraganized piece of music. On the other hand, **Atonal** music lacks the tonic center, giving an unsettling, chaotic feeling.
+**Tonality** is a principle which the music is composed to center around a *tonic central*. It forms a more "complete" and organized piece of music. On the other hand, **Atonal** music lacks the tonic center, giving an unsettling, chaotic feeling.
 
 <br />
 
@@ -23,7 +23,7 @@ Though not a film music, here is an example for atonal music from *The National 
 **Major** and **Minor** are pretty basic music terms. A major progression usually gives a more happy and warm feeling, while minor progression produces a sad and emotional atmosphere. I think most people know what major and minor are so I'll skip the examples.
 
 # Consonance vs. Dissonance
-Consonace music combines notes in an "ordinary" and harmonious fashion. On the other hand, dissonance music uses notes which "do not get along well". It usually forms from within a tonal structure, but gives a rather unsettling feel.
+Consonance music combines notes in an "ordinary" and harmonious fashion. On the other hand, dissonance music uses notes which "do not get along well". It usually forms from within a tonal structure, but gives a rather unsettling feel.
 
 
 <br />
@@ -134,7 +134,7 @@ An acousmêtre associated with the deceased woman Rebecca is played upon the you
 {{< youtube 7Ry2aSwBqX0 >}}
 
 # Performance Scene
-Performance scene, just as its name, means a performance occurred inside a film. Filmmakers often borrow the (musical or visual) structure of of performance to move the plot of the film foward in certain directions.
+Performance scene, just as its name, means a performance occurred inside a film. Filmmakers often borrow the (musical or visual) structure of of performance to move the plot of the film forward in certain directions.
 
 <br />
 
@@ -156,14 +156,14 @@ Notice the alarm clock beeps starting from **0:55** in this clip of *The Matrix 
 {{< youtube zJZ-gPQ0ew8 >}}
 
 # Montage
-Montage is a technique by switching many different scenes within a short period of time, accomponied by a piece of (mostly pop) music. Montage can be applied to shrink a long and tedious process occurring in a film to a compact and exciting short clip. Most Disney animations contain multiple instances of montage. For example, in *Mulan (1998)*, the song *I'll Make a Man out of You* shrinks the long military training into a short couple of minutes.
+Montage is a technique by switching many different scenes within a short period of time, accompanied by a piece of (mostly pop) music. Montage can be applied to shrink a long and tedious process occurring in a film to a compact and exciting short clip. Most Disney animations contain multiple instances of montage. For example, in *Mulan (1998)*, the song *I'll Make a Man out of You* shrinks the long military training into a short couple of minutes.
 
 <br />
 
 {{< youtube TVcLIfSC4OE >}}
 
 # Conclusion
-In the past, I found films less interesting then other entermainment media such as novels, songs, and video games. However, after taking this fantastic Music in Film course at my university, I suddenly became a huge film lover and started to appreciate the sutlety of the combination of film and music. Praise this course, and hope you enjoy reading this article. Amen.
+In the past, I found films less interesting then other entertainment media such as novels, songs, and video games. However, after taking this fantastic Music in Film course at my university, I suddenly became a huge film lover and started to appreciate the subtlety of the combination of film and music. Praise this course, and hope you enjoy reading this article. Amen.
 
 <br />
 

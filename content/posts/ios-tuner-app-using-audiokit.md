@@ -20,7 +20,7 @@ I will not delve into how I implement the views since the code is quite bulky an
 
 <br />
 
-We divide our tasks into three classes: `Note`, `Pitch`, and `Tuner`. The `Note` class represents a single (natural) musical note. For example, *C (Do)*, *D (Re)*, *E (Mi)*, *C♯*, *E♭*. The `Pitch` class is used to process the sampled audio, taking its raw frequency and assign it to the nearest natural note. The `Tuner` class polls the audio through microphone, aquires the natural note through the `Pitch` class, and calculates the error ratio between the raw frequency and the "correct" natural pitch.
+We divide our tasks into three classes: `Note`, `Pitch`, and `Tuner`. The `Note` class represents a single (natural) musical note. For example, *C (Do)*, *D (Re)*, *E (Mi)*, *C♯*, *E♭*. The `Pitch` class is used to process the sampled audio, taking its raw frequency and assign it to the nearest natural note. The `Tuner` class polls the audio through microphone, acquires the natural note through the `Pitch` class, and calculates the error ratio between the raw frequency and the "correct" natural pitch.
 
 <br />
 
@@ -132,7 +132,7 @@ class Pitch {
 }
 {{< / highlight >}}
 
-The `frequency` variable stores the raw frequency we recieved, `note` stores the nearest note to the raw `frequency`. Since the `Note` class contains the middle octave (aka the 4th octave) only, we have to declare another variable to store the `octave` of the current pitch.
+The `frequency` variable stores the raw frequency we received, `note` stores the nearest note to the raw `frequency`. Since the `Note` class contains the middle octave (aka the 4th octave) only, we have to declare another variable to store the `octave` of the current pitch.
 
 <br />
 
@@ -162,7 +162,7 @@ class Pitch {
 }
 {{< / highlight >}}
 
-What we do is looping through the `all` array by `.map`, and produce an array of tuples called `results`. It stores the original `Pitch` object as well as the distance (i.e. difference) between the raw frequency and and frequency of the particular `pitch`. The `results` array is then sorted in acsending order by their `distance`. We take the first item in the array (that is, the item with the least `distance`), and `return` the pitch. The nearest note is then obtained.
+What we do is looping through the `all` array by `.map`, and produce an array of tuples called `results`. It stores the original `Pitch` object as well as the distance (i.e. difference) between the raw frequency and and frequency of the particular `pitch`. The `results` array is then sorted in ascending order by their `distance`. We take the first item in the array (that is, the item with the least `distance`), and `return` the pitch. The nearest note is then obtained.
 
 # The Tuner Class
 The `Tuner` class is implemented by utilizing the `Pitch` class and the AudioKit library. You should first import AudioKit to your Xcode workspace. [[Link](https://audiokit.io/downloads/)]
@@ -196,7 +196,7 @@ class Tuner {
 
 {{< / highlight >}}
 
-In the initializer, we first configure the setting of Apple's AVFoundation through the `AVAudioSession` singleton. We speicify the category to `AVAudioSessionCategoryRecord` because we want to sample the audio by recording through the microphone. The mode is set to `AVAudioSessionModeMeasurement` since the purpose of the app is to measure the audio.
+In the initializer, we first configure the setting of Apple's AVFoundation through the `AVAudioSession` singleton. We specify the category to `AVAudioSessionCategoryRecord` because we want to sample the audio by recording through the microphone. The mode is set to `AVAudioSessionModeMeasurement` since the purpose of the app is to measure the audio.
 
 <br />
 

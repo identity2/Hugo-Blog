@@ -104,7 +104,7 @@ After you preview and approve your book through KDP Previewer, the printing cost
 
 **eBook**
 
-For eBooks, there are two royalty schemes: 70% or 35%. The biggest difference between the 70% and 35% scheme is that for 70% royalty scheme, KDP will charge the "Delivery Fee" of your book. That is, if the digital size of your book is large, a significant amount of profit will be deducted. (What? A "delivery fee" for digital contents? Yes, I know it doesn't make sense at all, but that's their rule.) For my book, the delivery fee is 12.67$\$$ (even more expensive than my printing cost...), so the 70% scheme is definately bad for me. (Unless I set the price of my book higher than 12.67$\$$.)
+For eBooks, there are two royalty schemes: 70% or 35%. The biggest difference between the 70% and 35% scheme is that for 70% royalty scheme, KDP will charge the "Delivery Fee" of your book. That is, if the digital size of your book is large, a significant amount of profit will be deducted. (What? A "delivery fee" for digital contents? Yes, I know it doesn't make sense at all, but that's their rule.) For my book, the delivery fee is 12.67$\$$ (even more expensive than my printing cost...), so the 70% scheme is definitely bad for me. (Unless I set the price of my book higher than 12.67$\$$.)
 
 <br />
 

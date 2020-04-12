@@ -12,14 +12,14 @@ My second game project [Knights Rubbish](/knights-rubbish) has released!
 
 <br />
 
-Originally I was just doing some experiments with Godot Engine and trying to implement the barebones of a platformer, but then the project grew larger and larger as I combined it with other mechanics I was testing. After a year and couple of months, Knights Rubbish was born!
+Originally I was just doing some experiments with Godot Engine and trying to implement the bare bones of a platformer, but then the project grew larger and larger as I combined it with other mechanics I was testing. After a year and couple of months, Knights Rubbish was born!
 
 ## Real Photos as Game Graphics
-One of the coolest features in Knights Rubbish is that most of its graphics are made with processed photos. Whenever I needed game graphics for objects in the game, I simply picked up my phone, took pictures of some random items at my home and editted them using Affinity Photo. This gave Knights Rubbish a bizarre 2D photo-realistic feel, which unexpectedly, is super decent!
+One of the coolest features in Knights Rubbish is that most of its graphics are made with processed photos. Whenever I needed game graphics for objects in the game, I simply picked up my phone, took pictures of some random items at my home and edited them using Affinity Photo. This gave Knights Rubbish a bizarre 2D photo-realistic feel, which unexpectedly, is super decent!
 
 <br />
 
-Another unexpected thing is that I thought editting photos for game graphics costs less time then drawing game graphics by hand. I was wrong. Editting photos is as time-consuming and more tedious than drawing. However, evaluating my art skills, maybe I'll never be able to create photo-realistic game art. 
+Another unexpected thing is that I thought editing photos for game graphics costs less time then drawing game graphics by hand. I was wrong. Editing photos is as time-consuming and more tedious than drawing. However, evaluating my art skills, maybe I'll never be able to create photo-realistic game art. 
 
 ## Platformer Fighter with Local Co-op
 I really enjoyed the fun of cooperating with a friend and fight through mobs and bosses of a game when I was a kid, so I planned to make Knights Rubbish a local co-op action platformer. When designing the mechanics of Knights Rubbish, I did research on three of my past favorite games for reference: Metal Slug, Super Smash Bros, and Maplestory.
@@ -40,7 +40,7 @@ Super Smash Bros is famous for its intuitive yet comprehensive combo-casting sys
 * **[Left/Right + Skill]** for horizontal or ranged attack.
 * **[Skill]** for basic skill.
 
-The difference is that instead of "Attack-key Combos" (or charged attacks) in Smash Bros, the **[Attack]** key in Knights Rubbish only defines one simple attack move. I designed it this way because I consider that charged attacks are fun due to the demonstration of skills between two more advanced players, however, Knights Rubbish is only a casual game where two players cooperate against enemies. Therefore, the addition of Attack-key Combos would only increase the complexity of Knights Rubbishh, not providing the game with more fun.
+The difference is that instead of "Attack-key Combos" (or charged attacks) in Smash Bros, the **[Attack]** key in Knights Rubbish only defines one simple attack move. I designed it this way because I consider that charged attacks are fun due to the demonstration of skills between two more advanced players, however, Knights Rubbish is only a casual game where two players cooperate against enemies. Therefore, the addition of Attack-key Combos would only increase the complexity of Knights Rubbish, not providing the game with more fun.
 
 <br />
 

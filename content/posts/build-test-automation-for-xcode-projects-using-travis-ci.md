@@ -65,7 +65,7 @@ I will explain the configuration line by line.
 
 <br />
 
-**-project** - This is the `.xcodeproj` file of your project. Note that if you are using CocoaPods, you should replece `xcode_project` with `xcode_workspace` and assign it with `ProjectName.xcworkspace` instead.
+**-project** - This is the `.xcodeproj` file of your project. Note that if you are using CocoaPods, you should replace `xcode_project` with `xcode_workspace` and assign it with `ProjectName.xcworkspace` instead.
 
 <br />
 

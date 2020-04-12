@@ -93,7 +93,7 @@ public static void LoadAudioClipFromDisk(AudioSource audioSource, string filenam
         //create new AudioClip instance, and set the (name, samples, channels, frequency, [stream] play immediately without fully loaded)
         AudioClip newClip = AudioClip.Create(filename, clipSample.samples, clipSample.channels, clipSample.frequency, false);
 
-        //set the acutal audio sample to the AudioClip (sample, offset)
+        //set the actual audio sample to the AudioClip (sample, offset)
         newClip.SetData (clipSample.sample, 0);
 
         //set to the AudioSource

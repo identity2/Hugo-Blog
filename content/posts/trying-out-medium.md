@@ -5,7 +5,7 @@ thumbnail: ""
 static_page: false
 draft: false
 ---
-Haven't been writing articles for almost half a year because I got back to school this spring. It's really diffult to handle both the course works and side projects (such as maintaining a blog) at the same time, and I'm starting to worry that I'll have even less time writing after I graduate. The "harsh" reality and "tough" life often change our hobbies into more "entertainment" ones unlike writing or other creative activities. Sad.
+Haven't been writing articles for almost half a year because I got back to school this spring. It's really difficult to handle both the course works and side projects (such as maintaining a blog) at the same time, and I'm starting to worry that I'll have even less time writing after I graduate. The "harsh" reality and "tough" life often change our hobbies into more "entertainment" ones unlike writing or other creative activities. Sad.
 
 <br />
 

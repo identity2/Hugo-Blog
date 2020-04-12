@@ -251,7 +251,7 @@ Surprisingly, it equals to zero, meaning that it is very unlikely that you would
 
 # III. A More Quantitative formula: Bounding the error
 
-We have now seen the proof and a simple application of Stirling's formula. However, since it is a method by approximating the value of $n!$, we had better know the bounds of the error in order to fully understand the formula. he more quantitative error bounding formula is simpy $$1<\frac{n!}{\sqrt{2\pi\cdot n^{n+\frac{1}{2}}\cdot e^{-n}}}<e^{\frac{1}{8n}}$$ for any $n\geq 1$.
+We have now seen the proof and a simple application of Stirling's formula. However, since it is a method by approximating the value of $n!$, we had better know the bounds of the error in order to fully understand the formula. he more quantitative error bounding formula is simply $$1<\frac{n!}{\sqrt{2\pi\cdot n^{n+\frac{1}{2}}\cdot e^{-n}}}<e^{\frac{1}{8n}}$$ for any $n\geq 1$.
 
 <br />
 
