@@ -31,7 +31,7 @@ Below is a list of all the courses I have taken during my unversity studies at C
 * GENA1113 Student-Oriented Teaching and Seminar
 * UGFH1000 In Dialogue with Humanity
 * UGFN1000 In Dialogue with Nature
-* [UGEA2230 Introduction to Transformation in Chinese History](/cuhk-course-review/ugea2230)
+* UGEA2230 Introduction to Transformation in Chinese History
 * [UGEB2440 Chemistry of Food and Drinks](/cuhk-course-review/ugeb2440)
 * UGEC2007 Transitional Justice
 * [UGED2133 Music in Film](/cuhk-course-review/uged2133)
