@@ -65,6 +65,7 @@ This page includes all the articles published on this blog.
 [Andrew Ng Machine Learning Course Review and Brief Notes](/posts/andrew-ng-machine-learning-course-review)
 
 # Umm... Art?
+
 [Music in Film Terminology](/posts/music-in-film-terminology.md)
 
 # Publishing
@@ -74,7 +75,9 @@ This page includes all the articles published on this blog.
 # CUHK Course Review
 [CUHK Course Review](/course-review)
 
-# Trash Posts
+# About Myself
+
+[My Journey in Programming Languages](/posts/my-journey-in-programming-languages)
 
 [Shineright Studio Starts...again and again!](/posts/shineright-studio-starts-again-and-again)
 
