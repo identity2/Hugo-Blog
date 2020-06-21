@@ -26,7 +26,7 @@ I murder time by drawing, writing, making simple apps, and creating random stuff
 * [HSNU](https://www.hs.ntnu.edu.tw). (2011-2014)
 
 # Projects
-Some games, some mobile apps, some artworks, and a book. [Link](/projects)
+Some games, apps, and artworks. [Link](/projects)
 
 # Experience
 * [Google Summer of Code 2017 (with Systers)](https://github.com/systers/powerup-iOS)
