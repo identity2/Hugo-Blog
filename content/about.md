@@ -10,7 +10,7 @@ I'm Yu Chao (趙佑) from Taiwan.
 
 <br />
 
-I am a computer science undergraduate interested in game and application development.
+I am a computer science undergraduate interested in web development, game development, and distributed systems.
 
 <br />
 
@@ -18,7 +18,7 @@ I kill time by reading and listening to music.
 
 <br />
 
-I murder time by drawing, writing, making simple apps, and creating random stuff.
+I murder time by drawing, writing, developing simple apps, and creating random stuff.
 
 # Education
 * BSc. Computer Science at [CUHK](http://www.cuhk.edu.hk/). (2014-2015, 2019-2021)
@@ -47,7 +47,7 @@ Some games, apps, and artworks. [Link](/projects)
 
 [GitHub](https://github.com/YuChaoGithub)
 
-[404 Page Not Found](http://shinerightstudio.com/404)
+[404 Page Not Found](https://shinerightstudio.com/404)
 
 # TL;DR
 I am a good person.

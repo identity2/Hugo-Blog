@@ -11,6 +11,10 @@ This page includes all the articles published on this blog.
 
 [Proving NP-Completeness by Restriction](/posts/prove-np-complete-by-restriction)
 
+# Web Dev
+
+[Project: YARC - Cloning Reddit using Go and Vue](/posts/project-yarc-cloning-reddit-using-go-and-vue)
+
 # Game Dev
 
 [Knights Rubbish Released](/posts/knights-rubbish-released)
