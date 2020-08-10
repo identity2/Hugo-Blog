@@ -33,15 +33,14 @@ I murder time by [drawing](https://www.instagram.com/yuchao.jpg/), writing, [dev
 * [Go](https://github.com/YuChaoGithub/YARC/tree/master/backend), [C](https://github.com/YuChaoGithub/ESTR4120).
 * [PostgreSQL](https://github.com/YuChaoGithub/YARC/tree/master/database), [Redis](https://github.com/YuChaoGithub/YARC).
 * [Docker](https://github.com/YuChaoGithub/YARC).
-* [Vue](https://github.com/YuChaoGithub/YARC/tree/master/frontend).
 * [Godot Game Engine](https://github.com/YuChaoGithub/Knights-Rubbish).
 
-**Not so proficient, but tried before:**
+**Used in previous projects, but not that proficient:**
 
 * [C++](https://github.com/YuChaoGithub/Reversi), [JavaScript](https://github.com/YuChaoGithub/YARC/tree/master/frontend), [Java](https://github.com/YuChaoGithub/CSCI3170-Project), [C#](https://github.com/YuChaoGithub/kqq), [Python](https://github.com/YuChaoGithub/CSCI3180-Assignments), [Swift](https://github.com/YuChaoGithub/iOS-Tuner-Metronome), [Dart](https://github.com/YuChaoGithub/flutter-apnea-app), [Perl](https://github.com/YuChaoGithub/CSCI3180-Assignments), [COBOL](https://github.com/YuChaoGithub/CSCI3180-Assignments), [ML](https://github.com/YuChaoGithub/CSCI3180-Assignments), [Prolog](https://github.com/YuChaoGithub/CSCI3180-Assignments).
 * [Unity Game Engine](https://github.com/YuChaoGithub/kqq).
-* [React](https://github.com/YuChaoGithub/Presto), [Flutter](https://github.com/YuChaoGithub/flutter-apnea-app).
-* [iOS: UIKit, SpriteKit](https://github.com/anitab-org/powerup-iOS).
+* [Vue](https://github.com/YuChaoGithub/YARC/tree/master/frontend), [React](https://github.com/YuChaoGithub/Presto), [Flutter](https://github.com/YuChaoGithub/flutter-apnea-app).
+* [iOS (Swift)](https://github.com/anitab-org/powerup-iOS).
 
 # Projects
 Some games, apps, and artworks. [Link](/projects)

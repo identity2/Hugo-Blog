@@ -24,11 +24,15 @@ Below is a list of all the courses I have taken during my unversity studies at C
 * [CSCI3170 Introduction to Database Systems](/cuhk-course-review/csci3170)
 * [CSCI3220 Algorithms for Bioinformatics](/cuhk-course-review/csci3220)
 * [CSCI3230/ESTR3108 Fundamentals of Artificial Intelligence](/cuhk-course-review/csci3230-estr3108)
+* CSCI4180 Introduction to Cloud Computing and Storage
 * [CSCI4430/ESTR4120 Data Communication and Computer Networks](/cuhk-course-review/csci4430-estr4120)
+* CSCI5120 Advanced Topics in Database Systems
+* AIST2010 Introduction to Computer Music
 
 # General Education
 * GENA1112 Aspects of General Education
 * GENA1113 Student-Oriented Teaching and Seminar
+* GENA2342 Appreciation of Music Cultures
 * UGFH1000 In Dialogue with Humanity
 * UGFN1000 In Dialogue with Nature
 * UGEA2230 Introduction to Transformation in Chinese History
