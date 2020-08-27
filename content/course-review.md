@@ -6,7 +6,7 @@ static_page: true
 draft: false
 ---
 
-Below is a list of all the courses I have taken during my unversity studies at CUHK (The Chinese University of Hong Kong). I've written reviews for some of them. Hope this could help out some fellow CUHKers. Shoot me an email if you have questions (or to request a review for a course).
+Below is a list of all the courses I've taken during my university studies at CUHK (The Chinese University of Hong Kong). For some of the courses, you could link to the reviews I've written. Hope this helps out some fellow CUHKers, as there're not much CUHK course reviews out there on the internet. Feel free to send me an email if you have any questions.
 
 # Computer Science Major Requirements
 * ENGG2020/ESTR2104 Digital Logic and System
@@ -29,26 +29,11 @@ Below is a list of all the courses I have taken during my unversity studies at C
 * CSCI5120 Advanced Topics in Database Systems
 * AIST2010 Introduction to Computer Music
 
-# General Education
-* GENA1112 Aspects of General Education
-* GENA1113 Student-Oriented Teaching and Seminar
-* GENA2342 Appreciation of Music Cultures
-* UGFH1000 In Dialogue with Humanity
-* UGFN1000 In Dialogue with Nature
-* UGEA2230 Introduction to Transformation in Chinese History
-* [UGEB2440 Chemistry of Food and Drinks](/cuhk-course-review/ugeb2440)
-* UGEC2007 Transitional Justice
-* [UGED2133 Music in Film](/cuhk-course-review/uged2133)
-
 # Engineering Requirements
 * CSCI1110/ESTR1002 Problem Solving by Programming
 * ENGG1100 Introduction to Engineering Design
 
-# Physical Education
-* PHED1003 Squash
-* PHED1017 Physical Conditioning
-
-# Computer Science Math & Science Requirements
+# Math & Science Requirements
 * MATH1510 Calculus for Engineers
 * ENGG1410 Vector Calculus and Linear Algebra for Engineers
 * PHYS1110 Physics for Engineers I
@@ -62,3 +47,18 @@ Below is a list of all the courses I have taken during my unversity studies at C
 * ELTU1001 Foundation English for University Studies
 * [ELTU2014 English for Engineers](/cuhk-course-review/eltu2014)
 * [ELTU3014 English for Engineers II](/cuhk-course-review/eltu3014)
+
+# General Education
+* GENA1112 Aspects of General Education
+* GENA1113 Student-Oriented Teaching and Seminar
+* GENA2342 Appreciation of Music Cultures
+* UGFH1000 In Dialogue with Humanity
+* UGFN1000 In Dialogue with Nature
+* UGEA2230 Introduction to Transformation in Chinese History
+* [UGEB2440 Chemistry of Food and Drinks](/cuhk-course-review/ugeb2440)
+* UGEC2007 Transitional Justice
+* [UGED2133 Music in Film](/cuhk-course-review/uged2133)
+
+# Physical Education
+* PHED1003 Squash
+* PHED1017 Physical Conditioning
