@@ -10,7 +10,7 @@ I'm Yu Chao (趙佑) from Taiwan.
 
 <br />
 
-I am a computer science undergraduate interested in application development (e.g. web/game/mobile dev), database systems, and distributed systems. I focused on taking software systems related courses during my undergraduate studies. This includes [database systems](/cuhk-course-review/csci3170), [computer networks](/cuhk-course-review/csci4430-estr4120), parallel and distributed systems, cloud computing, and [software engineering](/cuhk-course-review/csci3100).
+I am a computer science undergraduate interested in software engineering, database systems, and distributed systems. I focused on taking software systems related courses during my undergraduate studies. This includes [database systems](/cuhk-course-review/csci3170), [computer networks](/cuhk-course-review/csci4430-estr4120), parallel computing & distributed systems, cloud computing & storage, and [software engineering](/cuhk-course-review/csci3100).
 
 <br />
 
@@ -18,29 +18,12 @@ I kill time by [reading novels](https://www.goodreads.com/author/show/18427549.Y
 
 <br />
 
-I murder time by [drawing](https://www.instagram.com/yuchao.jpg/), writing, [developing simple apps](/projects), and creating random stuff.
+I murder time by [drawing](https://www.instagram.com/yuchao.jpg/), writing, developing apps, and creating [random stuff](/projects).
 
 # Education
 * BSc. Computer Science at [CUHK](http://www.cuhk.edu.hk/). (2014-2015 and 2019-2021)
 
 * [HSNU](https://www.hs.ntnu.edu.tw). (2011-2014)
-
-# Technical Skills
-*(Each skill links to a project I completed using it.)*
-
-**Main skill set:**
-
-* [Go](https://github.com/YuChaoGithub/YARC/tree/master/backend), [C](https://github.com/YuChaoGithub/ESTR4120).
-* [PostgreSQL](https://github.com/YuChaoGithub/YARC/tree/master/database), [Redis](https://github.com/YuChaoGithub/YARC).
-* [Docker](https://github.com/YuChaoGithub/YARC).
-* [Godot Game Engine](https://github.com/YuChaoGithub/Knights-Rubbish).
-
-**Used in previous projects, but not that proficient:**
-
-* [C++](https://github.com/YuChaoGithub/Reversi), [JavaScript](https://github.com/YuChaoGithub/YARC/tree/master/frontend), [Java](https://github.com/YuChaoGithub/CSCI3170-Project), [C#](https://github.com/YuChaoGithub/kqq), [Python](https://github.com/YuChaoGithub/CSCI3180-Assignments), [Swift](https://github.com/YuChaoGithub/iOS-Tuner-Metronome), [Dart](https://github.com/YuChaoGithub/flutter-apnea-app), [Perl](https://github.com/YuChaoGithub/CSCI3180-Assignments), [COBOL](https://github.com/YuChaoGithub/CSCI3180-Assignments), [ML](https://github.com/YuChaoGithub/CSCI3180-Assignments), [Prolog](https://github.com/YuChaoGithub/CSCI3180-Assignments).
-* [Unity Game Engine](https://github.com/YuChaoGithub/kqq).
-* [Vue](https://github.com/YuChaoGithub/YARC/tree/master/frontend), [React](https://github.com/YuChaoGithub/Presto), [Flutter](https://github.com/YuChaoGithub/flutter-apnea-app).
-* [iOS (Swift)](https://github.com/anitab-org/powerup-iOS).
 
 # Projects
 Some games, apps, and artworks. [Link](/projects)
