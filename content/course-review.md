@@ -18,16 +18,17 @@ Below is a list of all the courses I've taken during my university studies at CU
 * [CSCI3160 Design and Analysis of Algorithms](/cuhk-course-review/csci3160)
 * [CSCI3180 Principles of Programming Languages](/cuhk-course-review/csci3180)
 * [CSCI3250+CSCI3251 Computers & Society + Engineering Practicum](/cuhk-course-review/csci3250-csci3251)
+* CSCI/ESTR4998+4999 Final Year Project/Thesis
 
 # Computer Science Electives
 * [CSCI2040 Introduction to Python](/cuhk-course-review/csci2040)
 * [CSCI3170 Introduction to Database Systems](/cuhk-course-review/csci3170)
 * [CSCI3220 Algorithms for Bioinformatics](/cuhk-course-review/csci3220)
 * [CSCI3230/ESTR3108 Fundamentals of Artificial Intelligence](/cuhk-course-review/csci3230-estr3108)
+* CSCI4130 Cyber Security
 * CSCI4180 Introduction to Cloud Computing and Storage
 * [CSCI4430/ESTR4120 Data Communication and Computer Networks](/cuhk-course-review/csci4430-estr4120)
-* CSCI5120 Advanced Topics in Database Systems
-* AIST2010 Introduction to Computer Music
+* CENG2400 Embedded System Design
 
 # Engineering Requirements
 * CSCI1110/ESTR1002 Problem Solving by Programming
