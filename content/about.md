@@ -6,31 +6,11 @@ static_page: true
 draft: false
 ---
 
-I'm Yu Chao (趙佑) from Taiwan.
-
-<br />
-
-I am a computer science undergraduate interested in software engineering, database systems, and distributed systems. I focused on taking software systems related courses during my undergraduate studies. This includes [database systems](/cuhk-course-review/csci3170), [computer networks](/cuhk-course-review/csci4430-estr4120), parallel computing & distributed systems, cloud computing & storage, and [software engineering](/cuhk-course-review/csci3100).
-
-<br />
-
-I kill time by [reading novels](https://www.goodreads.com/author/show/18427549.Yu_Chao) and listening to music.
-
-<br />
-
-I murder time by [drawing](https://www.instagram.com/yuchao.jpg/), writing, developing apps, and creating [random stuff](/projects).
-
-# Education
-* BSc. Computer Science at [CUHK](http://www.cuhk.edu.hk/). (2014-2015 and 2019-2021)
-
-* [HSNU](https://www.hs.ntnu.edu.tw). (2011-2014)
-
-# Projects
-Some games, apps, and artworks. [Link](/projects)
+I'm Yu Chao (趙佑) from Taiwan, a computer science undergraduate at the Chinese University of Hong Kong. I kill time by [reading novels](https://www.goodreads.com/author/show/18427549.Yu_Chao) and listening to music (mostly British alt rock). I murder time by [drawing](https://www.instagram.com/yuchao.jpg/), writing, and creating [random stuff](/projects).
 
 # Experience
-* [Google Summer of Code 2017 (with Systers)](https://github.com/systers/powerup-iOS)
 * The first couple decades of being alive.
+* [Also these](https://yuchao.page/).
 
 # Links
 [LinkedIn](https://www.linkedin.com/in/yu-chao-a55b85b2/)
