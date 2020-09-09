@@ -8,6 +8,14 @@ draft: false
 
 I'm Yu Chao (趙佑) from Taiwan, a computer science undergraduate at the Chinese University of Hong Kong. I kill time by [reading novels](https://www.goodreads.com/author/show/18427549.Yu_Chao) and listening to music (mostly British alt rock). I murder time by [drawing](https://www.instagram.com/yuchao.jpg/), writing, and creating [random stuff](/projects).
 
+<br />
+
+Favorite writers: Brandon Sanderson, Irvine Welsh, and Wu Ming-Yi.
+
+Favorite bands: Radiohead, Gorillaz, Pink Floyd, The Smiths, and The Clash.
+
+Favorite Linux distro: Idk, seems all similar to me. (Change my mind.)
+
 # Experience
 * The first couple decades of being alive.
 * [Also these](https://yuchao.page/).
