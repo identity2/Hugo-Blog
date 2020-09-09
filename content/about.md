@@ -10,11 +10,9 @@ I'm Yu Chao (趙佑) from Taiwan, a computer science undergraduate at the Chines
 
 <br />
 
-Favorite writers: Brandon Sanderson, Irvine Welsh, and Wu Ming-Yi.
+Favorite writers: Brandon Sanderson, Irvine Welsh, Wu Ming-Yi.
 
-Favorite bands: Radiohead, Gorillaz, Pink Floyd, The Smiths, and The Clash.
-
-Favorite Linux distro: Idk, seems all similar to me. (Change my mind.)
+Favorite bands: Radiohead, Gorillaz, Pink Floyd, The Smiths, The Clash.
 
 # Experience
 * The first couple decades of being alive.
