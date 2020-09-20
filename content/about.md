@@ -19,20 +19,13 @@ Favorite bands: Radiohead, Gorillaz, Pink Floyd, The Smiths, The Clash.
 * [Also these](https://yuchao.page/).
 
 # Links
-[LinkedIn](https://www.linkedin.com/in/yu-chao-a55b85b2/)
-
-[Medium](https://medium.com/@realYuChao)
-
-[Instagram](https://instagram.com/yuchao.jpg)
-
-[YouTube](https://www.youtube.com/channel/UC3LBzCYKiqZ_S2FaJE7o_Vw)
-
-[Goodreads](https://www.goodreads.com/author/show/18427549.Yu_Chao)
-
-[Twitter](https://twitter.com/realYuChao)
-
-[GitHub](https://github.com/YuChaoGithub)
-
+[LinkedIn](https://www.linkedin.com/in/yu-chao-a55b85b2/) ． 
+[Medium](https://medium.com/@realYuChao) ．
+[Instagram](https://instagram.com/yuchao.jpg) ．
+[YouTube](https://www.youtube.com/channel/UC3LBzCYKiqZ_S2FaJE7o_Vw) ．
+[Goodreads](https://www.goodreads.com/author/show/18427549.Yu_Chao) ．
+[Twitter](https://twitter.com/realYuChao) ．
+[GitHub](https://github.com/YuChaoGithub) ．
 [404 Page Not Found](https://shinerightstudio.com/404)
 
 # TL;DR

@@ -6,6 +6,8 @@ static_page: true
 draft: false
 ---
 
+I will announce new projects on my [Twitter](https://twitter.com/realYuChao).
+
 ## Games
 [<img src="/projects/the-forsakeners.png" width="55px" height="55px"/> Knights Rubbish](/knights-rubbish)
 
