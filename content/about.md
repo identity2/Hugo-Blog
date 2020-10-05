@@ -10,9 +10,16 @@ I'm Yu Chao (趙佑) from Taiwan, a computer science undergraduate at the Chines
 
 <br />
 
-Favorite writers: Brandon Sanderson, Irvine Welsh, Wu Ming-Yi.
+*This list keeps on changing:*
 
-Favorite bands: Radiohead, Gorillaz, Pink Floyd, The Smiths, The Clash.
+* Favorite bands: Radiohead, Gorillaz, Pink Floyd, The Smiths, The Clash.
+
+* Favorite albums: In Rainbows (Radiohead), Magic Whip (Blur), The Dark Side of the Moon (Pink Floyd).
+
+* Favorite writers: Brandon Sanderson, Irvine Welsh, Wu Ming-Yi.
+
+* Favorite books: A Clockwork Orange (Anthony Burgess), Trainspotting (Irvine Welsh), Down and Out in Paris and London (George Orwell).
+
 
 # Experience
 * The first couple decades of being alive.
