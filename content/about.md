@@ -20,6 +20,8 @@ I'm Yu Chao (趙佑) from Taiwan, a computer science undergraduate at the Chines
 
 * Favorite books: A Clockwork Orange (Anthony Burgess), Trainspotting (Irvine Welsh), Down and Out in Paris and London (George Orwell).
 
+* Favorite programming languages: Go, C, C++, and maybe...maybe *\*gulp\** Java.
+
 
 # Experience
 * The first couple decades of being alive.
