@@ -26,9 +26,6 @@ I will announce new projects on my [Twitter](https://twitter.com/realYuChao).
 
 [<img src="/projects/recordable-launchpad.png" width="55px" height="55px" /> Recordable Launchpad](/recordable-launchpad)
 
-## Books
-[<img src="/projects/inter-dimensional-time.png" width="55px" height="55px" /> Inter-dimensional Time](/inter-dimensional-time)
-
 ## Artworks
 [<img src="/projects/doodles-with-trash-poem.png" width="55px" height="55px"/> Doodles](https://www.instagram.com/yuchao.jpg/)
 
