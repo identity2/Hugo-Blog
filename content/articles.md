@@ -79,7 +79,9 @@ This page includes all the articles published on this blog.
 # CUHK Course Review
 [CUHK Course Review](/course-review)
 
-# About Myself
+# Miscellany
+
+[My First CTF Experience](/posts/my-first-ctf-experience)
 
 [My Journey in Programming Languages](/posts/my-journey-in-programming-languages)
 

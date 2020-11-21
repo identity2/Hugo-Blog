@@ -25,10 +25,10 @@ Below is a list of all the courses I've taken during my university studies at CU
 * [CSCI3170 Introduction to Database Systems](/cuhk-course-review/csci3170)
 * [CSCI3220 Algorithms for Bioinformatics](/cuhk-course-review/csci3220)
 * [CSCI3230/ESTR3108 Fundamentals of Artificial Intelligence](/cuhk-course-review/csci3230-estr3108)
-* CSCI4130 Cyber Security
-* CSCI4180 Introduction to Cloud Computing and Storage
+* [CSCI4130 Cyber Security](/cuhk-course-review/csci4130)
+* [CSCI4180 Introduction to Cloud Computing and Storage](/cuhk-course-review/csci4180)
 * [CSCI4430/ESTR4120 Data Communication and Computer Networks](/cuhk-course-review/csci4430-estr4120)
-* CENG2400 Embedded System Design
+* [CENG2400 Embedded System Design](/cuhk-course-review/ceng2400)
 
 # Engineering Requirements
 * CSCI1110/ESTR1002 Problem Solving by Programming
@@ -52,7 +52,7 @@ Below is a list of all the courses I've taken during my university studies at CU
 # General Education
 * GENA1112 Aspects of General Education
 * GENA1113 Student-Oriented Teaching and Seminar
-* GENA2342 Appreciation of Music Cultures
+* [GENA2342 Appreciation of Music Cultures](/cuhk-course-review/gena2342)
 * UGFH1000 In Dialogue with Humanity
 * UGFN1000 In Dialogue with Nature
 * UGEA2230 Introduction to Transformation in Chinese History
