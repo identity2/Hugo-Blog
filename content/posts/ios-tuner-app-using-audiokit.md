@@ -207,7 +207,7 @@ Next on, we initialize the microphone for AudioKit. We first enable audio input,
 After the initialization, we implement two simple functions: `start()` and `stop()`, which starts off audio polling of the tuner and terminates it respectively.
 
 {{< highlight swift "linenos=table" >}}
-class Pitch {
+class Tuner {
     let pollingInterval = 0.05
     
     var pollingTimer: Timer?
@@ -245,7 +245,7 @@ In the start function, we call `AudioKit.start()` to turn on the polling through
 Moving on to the `pollingTick()` function:
 
 {{< highlight swift "linenos=table" >}}
-class Pitch {
+class Tuner {
     var delegate: TunerDelegate?
 
     // ...code omitted...
@@ -280,4 +280,4 @@ The view class could then utilize the `Tuner` class by adopting the `TunerDelega
 
 <br />
 
-Such a wonderful day.
+Nice.
