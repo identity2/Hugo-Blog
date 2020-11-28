@@ -27,12 +27,6 @@ This page includes all the articles published on this blog.
 
 [2D Fireworks Effect with Unity Particle System](/posts/2d-fireworks-effect-with-unity-particle-system)
 
-[kQq: Mobile to Standalone](/posts/kqq-mobile-to-standalone)
-
-[Zero Budget Marketing for Indies](/posts/zero-budget-marketing-for-indies)
-
-[Mobile Game: Portrait or Landscape](/posts/mobile-game-portrait-or-landscape)
-
 [Music Syncing in Rhythm Games](/posts/music-syncing-in-rhythm-games)
 
 [Recording and Playing Audio in Unity](/posts/recording-and-playing-audio-in-unity)
@@ -45,8 +39,6 @@ This page includes all the articles published on this blog.
 [Animate Nodes Using SKAction in iOS Sprite Kit](/posts/animate-nodes-using-skaction-in-ios-sprite-kit)
 
 [Build & Test Automation for Xcode Projects Using Travis CI](/posts/build-test-automation-for-xcode-projects-using-travis-ci)
-
-[SQLite Database Singleton Class for iOS in Swift 3](/posts/sqlite-database-singleton-class-for-ios-in-swift-3)
 
 
 # Math
@@ -62,17 +54,15 @@ This page includes all the articles published on this blog.
 [GSoC 2017 with Systers on PowerUp Project](/posts/gsoc-2017-with-systers-on-powerup-project)
 
 
-# Book / Online Course Review
+# Review
 
 [The Art of Game Design - Book Review](/posts/the-art-of-game-design-book-review)
 
 [Andrew Ng Machine Learning Course Review and Brief Notes](/posts/andrew-ng-machine-learning-course-review)
 
-# Umm... Art?
+# Art (?)
 
 [Music in Film Terminology](/posts/music-in-film-terminology.md)
-
-# Publishing
 
 [Self-Publish a Graphic Novel with Amazon KDP](/posts/self-publish-a-graphic-novel-with-amazon-kdp)
 
