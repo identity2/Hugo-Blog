@@ -31,6 +31,8 @@ I will announce new projects on my [Twitter](https://twitter.com/realYuChao).
 
 [<img src="/projects/rodhead-daily.png" width="55px" height="55px"/> Line Stickers](https://store.line.me/stickershop/author/122259/)
 
+<span><a style="color: white" href="/inter-dimensional-time">Inter-dimensional Time</a></span>
+
 ## Game Prototypes / Trivial Games:
 [<img src="/projects/boots-cuts.png" width="55px" height="55px"/> Boots-Cuts](/boots-cuts)
 
@@ -42,3 +44,5 @@ I will announce new projects on my [Twitter](https://twitter.com/realYuChao).
 Below are the open source projects I've contributed to:
 
 [PowerUp iOS (Anita Borg Institute)](https://github.com/systers/powerup-iOS)
+
+<span style="float: right"><a style="color: white; font-size: 0.1em" href="https://knowyourrights.github.io/">know your rights</a></span>
