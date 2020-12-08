@@ -6,22 +6,17 @@ static_page: true
 draft: false
 ---
 
-I'm Yu Chao (趙佑) from Taiwan, a computer science undergraduate at the Chinese University of Hong Kong. I kill time by [reading novels](https://www.goodreads.com/author/show/18427549.Yu_Chao) and listening to music (mostly British alt rock). I murder time by [drawing](https://www.instagram.com/yuchao.jpg/), writing, and creating [random stuff](/projects).
+I'm Yu Chao (趙佑) from Taiwan, a computer science undergraduate at the Chinese University of Hong Kong. I kill time by [reading novels](https://www.goodreads.com/author/show/18427549.Yu_Chao) and listening to music. I murder time by [drawing](https://www.instagram.com/yuchao.jpg/), writing, and creating [random stuff](/projects).
 
 <br />
 
-*This list keeps on changing:*
+**Random Facts:**
 
-* Favorite bands: Radiohead, Gorillaz, Pink Floyd, The Smiths, The Clash.
-
-* Favorite albums: In Rainbows (Radiohead), Magic Whip (Blur), The Dark Side of the Moon (Pink Floyd).
-
-* Favorite writers: Brandon Sanderson, Irvine Welsh, Wu Ming-Yi.
-
-* Favorite books: A Clockwork Orange (Anthony Burgess), Trainspotting (Irvine Welsh), Down and Out in Paris and London (George Orwell).
-
+* Favorite bands: Radiohead, Gorillaz, Pink Floyd, The Smiths, The Clash, Nirvana, The Strokes.
+* Favorite albums: In Rainbows (Radiohead), Magic Whip (Blur), The Dark Side of the Moon (Pink Floyd), The Wall (Pink Floyd), The Now Now (Gorillaz).
+* Favorite writers: Brandon Sanderson, Irvine Welsh, Wu Ming-Yi, George Orwell.
+* Favorite books: A Clockwork Orange (Anthony Burgess), Trainspotting (Irvine Welsh), Down and Out in Paris and London (George Orwell), The Stormlight Archive series.
 * Favorite programming languages: Go, C, C++, and umm...maybe *\*gulp\** Java.
-
 
 # Experience
 * The first couple decades of being alive.
