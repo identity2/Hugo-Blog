@@ -12,7 +12,7 @@ Usually, CTF competitions can be classified into two types, namely, the “attac
 
 <br />
 
-The puzzles were divided into Web Security, Reverse Engineering, Binary Exploit, Cryptography, Digital Forensics, and Miscellany. What we had to do was to follow the instructions of the problems and jeopardize/hack the systems to fish out the “flags”. The flags were usually in the forms of `hkcert20{SoMe_F1ag_str1ng}`, and you couldn’t believe how hyped I was whenever I dug out a single line of these strings from a complicated problem. It was like a dose of coke which pushed my sleep-deprived brain forward to solve the next problem.
+The puzzles were divided into Web Security, Reverse Engineering, Binary Exploit, Cryptography, Digital Forensics, and Miscellany. What we had to do was to follow the instructions of the problems and jeopardize/hack the systems to fish out the “flags”. The flags were usually in the forms of `hkcert20{SoMe_F1ag_str1ng}`, and you couldn’t believe how hyped I was whenever I dug out a single line of these strings from a complicated problem. It was like having a line of coke which pushed my sleep-deprived brain forward to solve the next problem.
 
 <br />
 

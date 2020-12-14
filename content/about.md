@@ -13,7 +13,7 @@ I'm Yu Chao (趙佑) from Taiwan, a computer science undergraduate at the Chines
 **Random Facts:**
 
 * Favorite bands: Radiohead, Gorillaz, Pink Floyd, The Smiths, The Clash, Nirvana, The Strokes.
-* Favorite albums: In Rainbows (Radiohead), Magic Whip (Blur), The Dark Side of the Moon (Pink Floyd), The Wall (Pink Floyd), The Now Now (Gorillaz).
+* Favorite albums: In Rainbows (Radiohead), Magic Whip (Blur), The Dark Side of the Moon (Pink Floyd), The Wall (Pink Floyd), Demon Days (Gorillaz), Plastic Beach (Gorillaz).
 * Favorite writers: Brandon Sanderson, Irvine Welsh, Wu Ming-Yi, George Orwell.
 * Favorite books: A Clockwork Orange (Anthony Burgess), Trainspotting (Irvine Welsh), Down and Out in Paris and London (George Orwell), The Stormlight Archive series.
 * Favorite programming languages: Go, C, C++, and umm...maybe *\*gulp\** Java.
