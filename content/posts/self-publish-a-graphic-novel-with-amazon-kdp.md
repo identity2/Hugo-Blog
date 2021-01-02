@@ -173,6 +173,3 @@ There's a page on how to promote your book on KDP: [Link](https://kdp.amazon.com
 **Blog Post**
 
 That's why I write this post.
-
-# Conclusion
-Thanks for reading, and GOD DAMN, I'm a published writer now.
