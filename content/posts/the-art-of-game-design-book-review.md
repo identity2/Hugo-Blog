@@ -5,9 +5,6 @@ thumbnail: ""
 static_page: false
 draft: false
 ---
-[中文版 (Chinese Version)](https://medium.com/@realYuChao/the-art-of-game-design-%E8%AE%80%E6%9B%B8%E5%BF%83%E5%BE%97-b0cf82337a7b)
-
-<br />
 
 Finally finished reading the famous "The Art of Game Design: A Book of Lenses" by Jesse Schell. Jesse Schell is a professor at CMU ETC (which happens to be my dream graduate school :D) and an experienced game designer. Throughout the book, he often explains some abstract concepts by his actual experience in game designing (especially from the game *Pirates of the Caribbean: Battle for Buccaneer Gold* and *Toontown Online* which he designed) and performance art (he was a juggler during his teenage years).
 

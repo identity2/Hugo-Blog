@@ -37,3 +37,5 @@ I announce new projects on my [Twitter](https://twitter.com/realYuChao), usually
 [<img src="/projects/tall-as-the-sky.png" width="55px" height="55px" /> Tall as the Sky](/tall-as-the-sky)
 
 [<img src="/projects/quantum-game.png" width="55px" height="55px"/> Quantum Game](/quantum-game)
+
+<span style="float: right"><a style="color: white; font-size: 0.1em" href="https://knowyourrights.page/">Know Your Rights</a></span>
