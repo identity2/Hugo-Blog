@@ -6,17 +6,11 @@ static_page: true
 draft: false
 ---
 
-I'm Yu Chao (趙佑) from Taiwan, a computer science undergraduate at the Chinese University of Hong Kong. I kill time by [reading novels](https://www.goodreads.com/author/show/18427549.Yu_Chao) and listening to music (mostly Brit rock). I murder time by [drawing](https://www.instagram.com/yuchao.jpg/), writing, and creating [random stuff](/projects).
+I'm Yu Chao (趙佑). I kill time by [reading novels](https://www.goodreads.com/author/show/18427549.Yu_Chao) and listening to music (mostly Brit rock). I murder time by [drawing](https://www.instagram.com/yuchao.jpg/), writing, and creating [random stuff](/projects).
 
 # Experience
 * The first couple decades of being alive.
 * [Also these](https://yuchao.page/).
 
-# Links
-[Instagram](https://instagram.com/yuchao.jpg) ．
-[YouTube](https://www.youtube.com/channel/UC3LBzCYKiqZ_S2FaJE7o_Vw) ．
-[Twitter](https://twitter.com/realYuChao) ．
-[GitHub](https://github.com/YuChaoGithub)
-
 # TL;DR
-I am a good person.
+I am a good person. Kind of.

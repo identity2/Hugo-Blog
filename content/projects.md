@@ -6,18 +6,12 @@ static_page: true
 draft: false
 ---
 
-I will announce new projects on my [Twitter](https://twitter.com/realYuChao).
+I announce new projects on my [Twitter](https://twitter.com/realYuChao), usually.
 
 ## Games
 [<img src="/projects/the-forsakeners.png" width="55px" height="55px"/> Knights Rubbish](/knights-rubbish)
 
 [<img src="/projects/kqq.png" width="55px" height="55px" /> kQq](/kqq)
-
-## Web
-[<img src="/projects/yarc.png" width="55px" height="55px"/> YARC](https://github.com/YuChaoGithub/YARC)
-
-## Chatbot
-[<img src="/projects/meme-linebot.png" width="55px" height="55px"/> Meme藏家 (Line Chatbot)](https://github.com/YuChaoGithub/meme-linebot)
 
 ## Mobile Apps
 [<img src="/projects/apnea.png" width="55px height=55px" /> Free Diving Apnea Training](/apnea-app)
@@ -26,23 +20,20 @@ I will announce new projects on my [Twitter](https://twitter.com/realYuChao).
 
 [<img src="/projects/recordable-launchpad.png" width="55px" height="55px" /> Recordable Launchpad](/recordable-launchpad)
 
-## Artworks
+## Art
 [<img src="/projects/doodles-with-trash-poem.png" width="55px" height="55px"/> Doodles](https://www.instagram.com/yuchao.jpg/)
 
 [<img src="/projects/rodhead-daily.png" width="55px" height="55px"/> Line Stickers](https://store.line.me/stickershop/author/122259/)
 
 <span><a style="color: white" href="/inter-dimensional-time">Inter-dimensional Time</a></span>
 
-## Game Prototypes / Trivial Games:
+## Prototypes/Abandoned Projects
+[<img src="/projects/meme-linebot.png" width="55px" height="55px"/> Meme Chatbot](https://github.com/YuChaoGithub/meme-linebot)
+
+[<img src="/projects/yarc.png" width="55px" height="55px"/> Yet Another Reddit Clone](https://github.com/YuChaoGithub/YARC)
+
 [<img src="/projects/boots-cuts.png" width="55px" height="55px"/> Boots-Cuts](/boots-cuts)
 
 [<img src="/projects/tall-as-the-sky.png" width="55px" height="55px" /> Tall as the Sky](/tall-as-the-sky)
 
 [<img src="/projects/quantum-game.png" width="55px" height="55px"/> Quantum Game](/quantum-game)
-
-## Open Source Projects
-Below are the open source projects I've contributed to:
-
-[PowerUp iOS (Anita Borg Institute)](https://github.com/systers/powerup-iOS)
-
-<span style="float: right"><a style="color: white; font-size: 0.1em" href="https://knowyourrights.github.io/">know your rights</a></span>

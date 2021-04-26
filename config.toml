@@ -25,8 +25,8 @@ unsafe = true
   # pinterest = "Your Pinterest username"
   # tumblr = "Your Tumblr username"
   # vimeo = "Your Vimeo username"
-  youtube = "casd8822"
-  linkedin = "yu-chao-a55b85b2"
+  # youtube = "casd8822"
+  # linkedin = "yu-chao-a55b85b2"
   # Disqus shortname
   disqus = "shineright-studio-yu-chao"
   # Google Analytics API key.
@@ -35,7 +35,7 @@ unsafe = true
   authorwebsite = "shinerightstudio.com"
   avatar = "/avatar.png"
   contact = "mailto:chaoyu@link.cuhk.edu.hk"
-  bio = "Such boredom, much time. So I write."
+  bio = "Hi."
   # Short subtitle/tagline. This is displayed in the header.
   # subtitle = "Short subtitle"
   # Logo image. This is displayed ogp image.
@@ -58,11 +58,6 @@ unsafe = true
     name = "Projects"
     url = "/projects"
     weight = 3
-
-[[menu.main]]
-    name = "Articles"
-    url = "/articles"
-    weight = 4
 
 [[menu.main]]
     name = "RSS"
