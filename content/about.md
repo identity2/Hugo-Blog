@@ -6,11 +6,15 @@ static_page: true
 draft: false
 ---
 
-I'm Yu Chao (趙佑). I kill time by [reading novels](https://www.goodreads.com/author/show/18427549.Yu_Chao) and listening to music (mostly Brit rock). I murder time by [drawing](https://www.instagram.com/yuchao.jpg/), writing, and creating [random stuff](/projects).
+I'm Yu Chao. I got my BSc. Computer Science degree at the Chinese University of Hong Kong, and I'm currently a software engineer located at Taipei.
 
-# Experience
-* The first couple decades of being alive.
-* [Also these](https://yuchao.page/).
+<br />
+
+I usually dump technical articles in this blog, but you might see some non-technical ones occasionally as well.
+
+<br />
+
+This blog was named "Shine Right Studio" 5 years ago because when directly translating "Shine" and "Right" into Mandarin, they were homophones of my name. Now I think it is pretty dumb and cringy, but I am too lazy to make a change.
 
 # TL;DR
-I am a good person. Kind of.
+I am a good person.

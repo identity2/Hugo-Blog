@@ -15,7 +15,7 @@ An apnea training app for free divers.
 [Google Play (Android)](https://play.google.com/store/apps/details?id=com.shinerightstudio.apnea)
 
 ## Description
-Everybody loves free diving. It is a dope activity which gives you strength and power.
+Everybody loves free diving. It gives you strength and power.
 
 <br />
 
