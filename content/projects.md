@@ -6,7 +6,7 @@ static_page: true
 draft: false
 ---
 
-(I haven't updated many of my projects for a long time, so some of them might not work properly.)
+(Some of the projects or links might be broken because I lost motivation in maintaining them.)
 
 ## Games
 [<img src="/projects/the-forsakeners.png" width="55px" height="55px"/> Knights Rubbish](/knights-rubbish)
