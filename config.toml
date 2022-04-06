@@ -1,4 +1,4 @@
-baseurl = "chrome://newtab"
+baseurl = "https://shinerightstudio.com/"
 languageCode = "en-us"
 Title = "New Tab"
 theme = "shineright_theme"
