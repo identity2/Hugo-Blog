@@ -21,11 +21,5 @@ A launchpad app with 25 recordable slots.
 
 This is a project I made accidentally when I was testing out the microphone and in-app purchase feature of the Unity game engine as well as the admob SDK provided by Google.
 
-## Features
-* 25 Recordable Slots.
-* Beautiful Background. Well, kind of.
-* Download for Free (with Ads).
-* That's It.
-
 ## Source Code
 [View On GitHub](https://github.com/YuChaoGithub/recordable-launchpad)

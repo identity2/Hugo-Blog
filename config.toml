@@ -1,82 +1,23 @@
-baseurl = "https://YuChaoGithub.github.io/"
+baseurl = "chrome://newtab"
 languageCode = "en-us"
-Title = "Shine Right Homepage"
+Title = "New Tab"
 theme = "shineright_theme"
 # Copyright notice. This is displayer in the footer.
-copyright = "Yu Chao © 2021"
+copyright = ""
 
 [markup.goldmark.renderer]
 unsafe = true
 
 [params]
   paginate = 10
-  # Social accounts. Link to these accounts are displayed in the header and
-  # footer
-  twitter = "realYuChao"
-  # facebook = ""
-  instagram = "yuchao.jpg"
-  # googleplus = "https://plus.google.com/u/0/+ChaoAndrew" # https://plus.google.com/u/0/xxxxxx
-  github = "YuChaoGithub"
-  # npm = "Your npm username"
-  # codepen = "Your CodePen username"
-  # dribbble = "Your Dribbble username"
-  # fivehundredpx = "Your 500px username" # 500px
-  # flickr = "Your Flickr username"
-  # pinterest = "Your Pinterest username"
-  # tumblr = "Your Tumblr username"
-  # vimeo = "Your Vimeo username"
-  # youtube = "casd8822"
-  # linkedin = "yu-chao-a55b85b2"
-  # Disqus shortname
-  disqus = "shineright-studio-yu-chao"
   # Google Analytics API key.
   ga_api_key = "UA-109245777-1"
-  author = "Yu Chao"
+  author = "yc"
   authorwebsite = "shinerightstudio.com"
   avatar = "/avatar.png"
-  contact = "mailto:chaoyu@link.cuhk.edu.hk"
-  bio = "Hi."
-  # Short subtitle/tagline. This is displayed in the header.
-  # subtitle = "Short subtitle"
-  # Logo image. This is displayed ogp image.
+  contact = "mailto:yuchao20040229@gmail.com"
+  bio = "hi"
   logo = ""
   title_image = "/title-image.png"
   fail_image = "/about/avatar-banner.png"
   favicon = "/favicon.ico"
-
-[[menu.main]]
-    name = "Blog"
-    url = "/"
-    weight = 1
-
-[[menu.main]]
-    name = "About"
-    url = "/about"
-    weight = 2
-
-[[menu.main]]
-    name = "Projects"
-    url = "/projects"
-    weight = 3
-
-[[menu.main]]
-    name = "RSS"
-    url = "/index.xml"
-    weight = 4
-
-#[[menu.main]]
-#    name = "Books"
-#    url = "https://www.amazon.com/author/yuchao/"
-#    weight = 5
-
-#[[menu.main]]
-#    name = "Artworks"
-#    url = "https://www.instagram.com/yuchao.jpg/"
-#    weight = 6
-
-# --Nested Menu--
-# [[menu.main]]
-#    parent = "theme"
-#    name = "creating-a-new-theme"
-#    url = "/posts/creating-a-new-theme"
-#    weight = 1

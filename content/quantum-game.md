@@ -12,7 +12,7 @@ draft: false
 [Itch.io](https://shinerightstudio.itch.io/quantum-game)
 
 ## Core Idea
-Quantum Game (yeah I know, what a bad title) is an action game which the players should switch between being an electron or a proton to overcome obstacles in the level.
+Quantum Game is an action game which the players should switch between being an electron or a proton to overcome obstacles in the level.
 
 <br />
 
