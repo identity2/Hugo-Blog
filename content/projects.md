@@ -3,7 +3,7 @@ title: "Projects"
 date: 2017-10-22T17:56:58+08:00
 thumbnail: ""
 static_page: true
-draft: false
+draft: true
 ---
 
 ## Games
@@ -23,8 +23,6 @@ draft: false
 
 [<img src="/projects/rodhead-daily.png" width="55px" height="55px"/> Line Stickers](https://store.line.me/stickershop/author/122259/)
 
-<span><a style="color: white" href="/inter-dimensional-time">Inter-dimensional Time</a></span>
-
 ## Prototypes/Abandoned Projects
 [<img src="/projects/meme-linebot.png" width="55px" height="55px"/> Meme Chatbot](https://github.com/YuChaoGithub/meme-linebot)
 
@@ -35,5 +33,3 @@ draft: false
 [<img src="/projects/tall-as-the-sky.png" width="55px" height="55px" /> Tall as the Sky](/tall-as-the-sky)
 
 [<img src="/projects/quantum-game.png" width="55px" height="55px"/> Quantum Game](/quantum-game)
-
-<span style="float: right"><a style="color: white; font-size: 0.1em" href="https://knowyourrights.page/">Know Your Rights</a></span>
