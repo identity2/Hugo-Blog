@@ -12,11 +12,11 @@ unsafe = true
   paginate = 10
   # Google Analytics API key.
   ga_api_key = "UA-109245777-1"
-  author = "yc"
+  author = ""
   authorwebsite = "shinerightstudio.com"
-  avatar = "/avatar.png"
+  avatar = ""
   contact = "mailto:yuchao20040229@gmail.com"
-  bio = "hi"
+  bio = ""
   logo = ""
   title_image = "/title-image.png"
   fail_image = "/about/avatar-banner.png"
