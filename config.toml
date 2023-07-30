@@ -1,4 +1,4 @@
-baseurl = "https://identity2.github.io/"
+baseurl = "https://shinerightstudio.com/"
 languageCode = "en-us"
 Title = "New Tab"
 theme = "shineright_theme"
@@ -13,7 +13,7 @@ unsafe = true
   # Google Analytics API key.
   ga_api_key = "UA-109245777-1"
   author = ""
-  authorwebsite = "identity2.github.io"
+  authorwebsite = "shinerightstudio.com"
   avatar = ""
   contact = "mailto:yuchao20040229@gmail.com"
   bio = ""
